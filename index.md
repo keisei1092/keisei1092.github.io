@@ -7,6 +7,7 @@
 
 ### Works
 
+* GitHub [https://github.com/keisei1092](https://github.com/keisei1092)
 * niconico [http://www.nicovideo.jp/mylist/10180194](http://www.nicovideo.jp/mylist/10180194)
 * YouTube [https://youtube.com/user/keisei1092](https://youtube.com/user/keisei1092)
 * SoundCloud [https://soundcloud.com/keisei_1092](https://soundcloud.com/keisei_1092)
@@ -14,10 +15,11 @@
 
 ### Goods
 
+* AKIBA-HOBBY [https://ec.akbh.jp/products/list.php?maker_id=102](https://ec.akbh.jp/products/list.php?maker_id=102)
 * Bandcamp [https://miraitoarumachi.bandcamp.com](https://miraitoarumachi.bandcamp.com)
 * BOOTH [https://miraitoarumachi.booth.pm](https://miraitoarumachi.booth.pm)
 
-### Fan
+### Become my fan
 
 * pixiv FANBOX [https://www.pixiv.net/fanbox/creator/604687](https://www.pixiv.net/fanbox/creator/604687)
 
