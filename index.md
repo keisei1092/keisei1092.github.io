@@ -1,5 +1,3 @@
-![avatar](https://avatars1.githubusercontent.com/u/3320719?s=460&v=4)
-
 ## Now
 
 * [Twitter](https://twitter.com/keisei_1092)
