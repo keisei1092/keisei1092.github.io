@@ -19,6 +19,7 @@
 ## Become my fan
 
 * [pixiv FANBOX](https://www.pixiv.net/fanbox/creator/604687)
+* [Patreon](https://www.patreon.com/keisei_1092)
 
 ## Activities
 
