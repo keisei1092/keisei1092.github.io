@@ -4,7 +4,6 @@
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="chrome=1" />
     <title>ミライトアルマチ構想 Mirai To Aru Machi Conceptions</title>
-
     <link
       rel="stylesheet"
       href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}"
@@ -40,41 +39,16 @@
             <a href="https://open.spotify.com/artist/3G8oOP4sooeFy69r2BzfZN"><img src="images/spotify.svg" alt="spotify" width="32" height="32" /></a>
           </div>
         </div>
-
-        {% if site.github.is_project_page %}
-        <p class="view">
-          <a href="{{ site.github.repository_url }}"
-            >View the Project on GitHub <small>{{ github_name }}</small></a
-          >
-        </p>
-        {% endif %} {% if site.show_downloads %}
-        <ul>
-          <li>
-            <a href="{{ site.github.zip_url }}">Download <strong>ZIP File</strong></a>
-          </li>
-          <li>
-            <a href="{{ site.github.tar_url }}">Download <strong>TAR Ball</strong></a>
-          </li>
-          <li>
-            <a href="{{ site.github.repository_url }}">View On <strong>GitHub</strong></a>
-          </li>
-        </ul>
-        {% endif %}
       </header>
       <section style="border: none;">
         {{ content }}
       </section>
       <footer>
-        {% if site.github.is_project_page %}
         <p>
-          This project is maintained by
-          <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>
+          <small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small>
         </p>
-        {% endif %}
         <p>
-          <small
-            >Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small
-          >
+          <small>&copy; 2019 keisei All Rights Reserved.</small>
         </p>
       </footer>
     </div>
