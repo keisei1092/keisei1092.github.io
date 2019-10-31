@@ -1,5 +1,3 @@
-# keisei_1092
-
 ## Works
 
 ### Programming
