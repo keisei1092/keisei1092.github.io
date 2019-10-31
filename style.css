@@ -6,3 +6,14 @@
   letter-spacing: 0.17rem;
   font-weight: normal;
 }
+
+.social-media-icon {
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+}
+
+.social-media-icon img {
+  width: 32px;
+  height: 32px;
+}
