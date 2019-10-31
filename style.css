@@ -11,6 +11,10 @@
   color: #393939;
 }
 
+.title > a:hover {
+  font-weight: normal;
+}
+
 .social-media-icon {
   display: flex;
   justify-content: space-evenly;
