@@ -1,10 +1,5 @@
 # keisei_1092
 
-## Now
-
-* [Twitter](https://twitter.com/keisei_1092)
-* [Instagram](https://instagram.com/keisei_1092)
-
 ## Works
 
 ### Programming
