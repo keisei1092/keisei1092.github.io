@@ -1,11 +1,4 @@
-## Works
-
-### Programming
-
-* [GitHub](https://github.com/keisei1092)
-* [Aizu Online Judge](http://judge.u-aizu.ac.jp/onlinejudge/user.jsp?id=keisei_1092)
-
-### Music
+## Music
 
 * [niconico](http://www.nicovideo.jp/mylist/10180194)
 * [YouTube](https://youtube.com/user/keisei1092)
