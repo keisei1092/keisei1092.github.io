@@ -1,3 +1,7 @@
+* {
+  font-feature-settings: "palt";
+}
+
 .title {
   text-align: center;
   font-family: 游明朝, "Yu Mincho", YuMincho, "Hiragino Mincho ProN", "Hiragino Mincho Pro", HGS明朝E, メイリオ, Meiryo,
