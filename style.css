@@ -2,6 +2,23 @@
   font-feature-settings: "palt";
 }
 
+:root {
+  /* Dark mode colors */
+  --c-dark-text: #eee;
+  --c-dark-background: #121212;
+  --c-dark-focus: hsl(32, 100%, 55%);
+  --c-dark-interactive: hsl(150, 100%, 38%);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --c-text: var(--c-dark-text);
+    --c-background: var(--c-dark-background);
+    --c-focus: var(--c-dark-focus);
+    --c-interactive: var(--c-dark-interactive);
+  }
+}
+
 .title {
   text-align: center;
   font-family: 游明朝, "Yu Mincho", YuMincho, "Hiragino Mincho ProN", "Hiragino Mincho Pro", HGS明朝E, メイリオ, Meiryo,
