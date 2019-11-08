@@ -1,3 +1,3 @@
-![霞ヶ浦](images/7ADD6BA1-370C-4E34-A1E7-63BD4D793105.jpeg)
+![霞ヶ浦](photos/kasumigaura.jpeg)
 
 霞ヶ浦
