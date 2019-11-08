@@ -27,6 +27,10 @@
 
 ## Activities
 
+* 中央大学後楽園キャンパス 理工白門祭 ボーカロイド同好会ミクチェイン アコースティックライブ出演（フルート: keisei, アコースティックギター: 森羅）
+* 初音ミク マジカルミライ2019
+  * 「マジカルミライ楽曲コンテスト 歴代グランプリ座談会」 出演
+  * KARENT presents クリエイターズマーケット 「ミライトアルマチ都々里」頒布
 * 渋谷マルイ Megurine Luka 10th Anniversary Birthday Party DJ出演
 * 韓国・ソウル ボーカロイドオンリーイベント「VOCANARU2」DJ出演
 * HATSUNE MIKU FUTURE BASS COLLECTION 収録「ゆらぎ」
