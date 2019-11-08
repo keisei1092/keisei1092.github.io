@@ -21,6 +21,10 @@
 * [pixiv FANBOX](https://www.pixiv.net/fanbox/creator/604687)
 * [Patreon](https://www.patreon.com/keisei_1092)
 
+## 📸 Photos
+
+* [Photos](/photos)
+
 ## Activities
 
 * 渋谷マルイ Megurine Luka 10th Anniversary Birthday Party DJ出演
