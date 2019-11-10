@@ -4,7 +4,7 @@
 
 ## About
 
-* [biography](/biography)
+* [Biography](/biography)
 
 ## Music
 
