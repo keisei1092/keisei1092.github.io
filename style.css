@@ -2,21 +2,22 @@
   font-feature-settings: "palt";
 }
 
-:root {
-  /* Dark mode colors */
-  --c-dark-text: #eee;
-  --c-dark-background: #121212;
-  --c-dark-focus: hsl(32, 100%, 55%);
-  --c-dark-interactive: hsl(150, 100%, 38%);
-}
-
 @media (prefers-color-scheme: dark) {
-  :root {
-    --c-text: var(--c-dark-text);
-    --c-background: var(--c-dark-background);
-    --c-focus: var(--c-dark-focus);
-    --c-interactive: var(--c-dark-interactive);
+  html, body {
+    color: #919191;
+    background-color: #171717;
+    /* --c-focus: var(--c-dark-focus); */
+    /* --c-interactive: var(--c-dark-interactive); */
   }
+
+  h1, h2, h3, h4, h5, h6 {
+    color: #c4c4c4;
+  }
+
+  /* img, video, body * [style*="background-image"] {
+    filter: hue-rotate(180deg) contrast(100%) invert(100%);
+    -webkit-filter: hue-rotate(180deg) contrast(100%) invert(100%);
+  } */
 }
 
 .title {
@@ -28,8 +29,16 @@
   font-weight: normal;
 }
 
-.title > a {
-  color: #393939;
+@media (prefers-color-scheme: light) {
+  .title > a {
+    color: #393939;
+  }
+}
+
+@media (prefers-color-scheme: dark) {
+  .title > a {
+    color: #c4c4c4;
+  }
 }
 
 .title > a:hover {
