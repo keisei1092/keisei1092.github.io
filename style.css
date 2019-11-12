@@ -20,6 +20,18 @@
   } */
 }
 
+@media print, screen and (max-width: 960px) {
+  header {
+    padding: 0 160px;
+  }
+}
+
+@media print, screen and (max-width: 720px) {
+  header {
+    padding: 0;
+  }
+}
+
 .title {
   text-align: center;
   font-family: 游明朝, "Yu Mincho", YuMincho, "Hiragino Mincho ProN", "Hiragino Mincho Pro", HGS明朝E, メイリオ, Meiryo,
