@@ -9,3 +9,11 @@
 ![霞ヶ浦](photos/kasumigaura.jpeg)
 
 霞ヶ浦
+
+![日本平](photos/nihondaira.jpg)
+
+日本平
+
+![焼津富士山丼](photos/yaizu.jpeg)
+
+焼津富士山丼
