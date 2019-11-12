@@ -10,7 +10,7 @@
 
 霞ヶ浦
 
-![日本平](photos/nihondaira.jpg)
+![日本平](photos/nihondaira.jpeg)
 
 日本平
 
