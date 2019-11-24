@@ -14,7 +14,7 @@
 * [piapro](https://piapro.jp/keisei_1092)
 * [Mixcloud](https://www.mixcloud.com/keisei_1092)
 
-## goods
+## store
 
 * [AKIBA-HOBBY](https://ec.akbh.jp/products/list.php?maker_id=102)
 * [Bandcamp](https://miraitoarumachi.bandcamp.com)
