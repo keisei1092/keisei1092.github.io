@@ -4,27 +4,28 @@
 
 ## about
 
-* [Biography](/biography)
+* [biography](/biography)
 
 ## music
 
 * [niconico](http://www.nicovideo.jp/mylist/10180194)
-* [YouTube](https://youtube.com/user/keisei1092)
-* [SoundCloud](https://soundcloud.com/keisei_1092)
+* [youtube](https://youtube.com/user/keisei1092)
+* [soundcloud](https://soundcloud.com/keisei_1092)
 * [piapro](https://piapro.jp/keisei_1092)
-* [Mixcloud](https://www.mixcloud.com/keisei_1092)
+* [mixcloud](https://www.mixcloud.com/keisei_1092)
 
 ## store
 
-* [AKIBA-HOBBY](https://ec.akbh.jp/products/list.php?maker_id=102)
-* [Bandcamp](https://miraitoarumachi.bandcamp.com)
-* [BOOTH](https://miraitoarumachi.booth.pm)
+* [akiba-hobby](https://ec.akbh.jp/products/list.php?maker_id=102)
+* [bandcamp](https://miraitoarumachi.bandcamp.com)
+* [booth](https://miraitoarumachi.booth.pm)
 
 ## fan
 
-* [pixiv FANBOX](https://www.pixiv.net/fanbox/creator/604687)
-* [Patreon](https://www.patreon.com/keisei_1092)
+* [pixiv fanbox](https://www.pixiv.net/fanbox/creator/604687)
+* [patreon](https://www.patreon.com/keisei_1092)
 
 ## note
 
-* [Photos](/photos)
+* [photos](/photos)
+* [special thanks](/special_thanks)
