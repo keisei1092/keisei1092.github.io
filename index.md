@@ -5,6 +5,7 @@
 ## about
 
 * [biography](/biography)
+* [discography](/discography)
 
 ## music
 
