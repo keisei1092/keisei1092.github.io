@@ -1,4 +1,4 @@
-![tsuzuri](images/tsuzuri.png)
+![tsuzuri](images/discography/tsuzuri.png)
 
 2019/08/10 「ミライトアルマチ都々里」リリースしました。配信はiTunes Store, Apple Music, Spotifyなどで、物理はSONOCAで [こちら](https://miraitoarumachi.booth.pm/items/1516311) から発送承っております。
 
