@@ -32,3 +32,63 @@
 1. pretty
 1. dasher
 1. tetra
+
+### ミライトアルマチ詩恩
+
+![jacket](./images/discography/shion.jpg)
+
+1. ゆめアップロード
+1. saku*life
+1. Blinking Blank
+1. #cityelectronic1477754787 「街観図」
+1. prologue
+1. Does this make sense
+1. birthday
+
+### ミライトアルマチ衛星
+
+![jacket](./images/discography/satellite.jpg)
+
+1. 夢の魔法
+1. サクラセンセーショナル
+1. ブライトシティ
+1. smile chain
+1. hoshi no orchestra
+1. urban hallucination
+1. crosswing (Satellite mix)
+1. 地図にない街 (fjsmu remix)
+1. ココロターミナル (mt remix)
+1. 夢の魔法 (NUSH mix)
+1. IRIS SCREEN (robo party edge rmx)
+1. ブライトシティ (Osanzi remix)
+
+### ミライトアルマチ情緒
+
+![jacket](./images/discography/emotions.jpg)
+
+1. 明日見る街
+1. 桜色エレクトロ
+1. yanesen
+1. cloudway
+1. Urban Stroke
+1. IRIS SCREEN
+1. ココロターミナル
+1. Turbo Orbit
+1. WALK AROUND STEREO
+1. はるかGlider (Higher than the stars Remix)
+1. ココロターミナル (Sky Lounge Remix)
+1. 地図にない街 (haru2036 remix)
+
+### ミライトアルマチ街道
+
+![jacket](./images/discography/avenue.jpg)
+
+1. 地図にない街
+1. Polka dot
+1. はるかGlider
+1. Breath of Urban
+1. Electrail
+1. PIKTOGRAM  
+1. Hearting Linking  
+1. a neo world (2013 Extended Mix)
+1. trans-Create
