@@ -1,6 +1,8 @@
 * {
   font-feature-settings: "palt";
   letter-spacing: 0.08em;
+  font-family: Charter, 游明朝, "Yu Mincho", YuMincho, "Hiragino Mincho ProN", "Hiragino Mincho Pro", HGS明朝E, メイリオ, Meiryo,
+    serif;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -35,8 +37,6 @@
 
 .title {
   text-align: center;
-  font-family: Charter, 游明朝, "Yu Mincho", YuMincho, "Hiragino Mincho ProN", "Hiragino Mincho Pro", HGS明朝E, メイリオ, Meiryo,
-    serif;
   font-size: 1rem;
   letter-spacing: 0.17rem;
   font-weight: normal;
