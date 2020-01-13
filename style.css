@@ -15,6 +15,7 @@
 
   h1, h2, h3, h4, h5, h6 {
     color: #c4c4c4;
+    letter-spacing: 0.17em;
   }
 
   /* img, video, body * [style*="background-image"] {
