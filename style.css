@@ -7,14 +7,14 @@
 
 @media (prefers-color-scheme: dark) {
   html, body {
-    color: #919191;
+    color: #999999;
     background-color: #171717;
     /* --c-focus: var(--c-dark-focus); */
     /* --c-interactive: var(--c-dark-interactive); */
   }
 
   h1, h2, h3, h4, h5, h6 {
-    color: #c4c4c4;
+    color: #cccccc;
     letter-spacing: 0.17em;
   }
 
@@ -51,7 +51,7 @@
 
 @media (prefers-color-scheme: dark) {
   .title > a {
-    color: #c4c4c4;
+    color: #cccccc;
   }
 }
 
