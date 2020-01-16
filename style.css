@@ -7,7 +7,7 @@
 
 @media (prefers-color-scheme: dark) {
   html, body {
-    color: #999999;
+    color: #D1D2D3;
     background-color: #171717;
     /* --c-focus: var(--c-dark-focus); */
     /* --c-interactive: var(--c-dark-interactive); */
