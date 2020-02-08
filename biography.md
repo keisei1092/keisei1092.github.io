@@ -56,3 +56,20 @@
 * 赤い羽根共同募金×ピアプロコラボ企画 〜支えあうココロ、未来へ〜 2015年応援ソング「smile chain」
 
 ほか、初音ミクコンピレーションアルバム参加、DJ活動多数
+
+## Equipments
+
+![equipment](./images/equipment.jpg)
+
+- MacBook Pro (13-inch, 2018, Four Thunderbolt 3 Ports)
+    - 2.3 Ghz Quad-Core Intel Core i5
+    - 16 GB 2133 Mhz LPDDR3
+- Apple Logic Pro X
+- Crypton Future Media Inc. Hatsune Miku V4X Bundle
+- Audio-Technica ATH-M50x
+- FOSTEX PM0.3b
+- KORG microKEY Air 37
+- Pioneer Smart DJ Controller DDJ-200
+- Algoriddim djay Pro 2
+- iPad mini (5th generation)
+
