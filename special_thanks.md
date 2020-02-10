@@ -1,5 +1,7 @@
 keiseiが観測したファンアートなどをこっそりスクラップさせて頂くページ
 
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">keiseiさん（<a href="https://twitter.com/keisei_1092?ref_src=twsrc%5Etfw">@keisei_1092</a> ）の「 Helium 」のファンアート描きました！<br><br>めちゃめちゃいい曲作る方だからもっともっとたくさんの人に聞いてもらいたい…！！<a href="https://twitter.com/hashtag/%E5%88%9D%E9%9F%B3%E3%83%9F%E3%82%AF?src=hash&amp;ref_src=twsrc%5Etfw">#初音ミク</a> <a href="https://t.co/1j1gm999lm">pic.twitter.com/1j1gm999lm</a></p>&mdash; jtmj (@jtmj222) <a href="https://twitter.com/jtmj222/status/1226493895070011392?ref_src=twsrc%5Etfw">February 9, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PSjK80okqZ4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/snQxcW7LjdA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
