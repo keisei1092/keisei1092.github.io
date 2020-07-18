@@ -28,5 +28,6 @@
 
 ## note
 
+* [freebies](/freebies)
 * [photos](/photos)
 * [special thanks](/special_thanks)
