@@ -37,6 +37,8 @@
 
 ![jacket](./images/discography/sekka.jpg)
 
+イラスト Kazuna [Twitter](https://twitter.com/kazzzuna)
+
 1. Hifumi
 1. envelope
 1. 地図にない街 (Sekka mix)
