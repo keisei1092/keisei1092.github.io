@@ -4,10 +4,10 @@
 
 イラスト OTOMIKA [Tumblr](https://otomikakei.tumblr.com)
 
-1. きみの後ろ姿を視ていた (feat. MEIKO)
-1. zenmaikatatenikimiwadokoe (feat. 初音ミク)
-1. クリムゾンビート (sorae mix feat. MEIKO)
-1. WALK AROUND STEREO (sorae mix feat. 初音ミク)
+1. きみの後ろ姿を視ていた
+1. zenmaikatatenikimiwadokoe
+1. クリムゾンビート
+1. WALK AROUND STEREO
 1. きみの後ろ姿を視ていた (Instrumental)
 1. zenmaikatatenikimiwadokoe (Instrumental)
 1. クリムゾンビート (sorae mix Instrumental)
