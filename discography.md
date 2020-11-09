@@ -6,8 +6,8 @@
 
 1. きみの後ろ姿を視ていた
 1. zenmaikatatenikimiwadokoe
-1. クリムゾンビート
-1. WALK AROUND STEREO
+1. クリムゾンビート (sorae mix)
+1. WALK AROUND STEREO (sorae mix)
 1. きみの後ろ姿を視ていた (Instrumental)
 1. zenmaikatatenikimiwadokoe (Instrumental)
 1. クリムゾンビート (sorae mix Instrumental)
