@@ -1,6 +1,6 @@
-![tsuzuri](images/discography/tsuzuri.png)
+![sorae](images/discography/sorae.png)
 
-2019/08/10 「ミライトアルマチ都々里」リリースしました。配信はiTunes Store, Apple Music, Spotifyなどで、物理はSONOCAで [こちら](https://miraitoarumachi.booth.pm/items/1516311) から発送承っております。
+2020/11/28 「ミライトアルマチ空絵」リリースします。配信はiTunes Store, Apple Music, Spotifyなどで、物理はマジカルミライ2020 クリエイターズマーケットで頒布します。通販フォームも追って用意します。
 
 ## about
 
