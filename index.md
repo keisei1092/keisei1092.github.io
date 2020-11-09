@@ -1,4 +1,4 @@
-![sorae](images/discography/sorae.png)
+![top](images/top.png)
 
 2020/11/28 「ミライトアルマチ空絵」リリースします。配信はiTunes Store, Apple Music, Spotifyなどで、物理はマジカルミライ2020 クリエイターズマーケットで頒布します。通販フォームも追って用意します。
 
