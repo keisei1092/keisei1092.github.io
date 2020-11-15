@@ -10,21 +10,21 @@
 ## music
 
 * [niconico](http://www.nicovideo.jp/mylist/10180194)
-* [youtube](https://youtube.com/user/keisei1092)
-* [soundcloud](https://soundcloud.com/keisei_1092)
-* [piapro](https://piapro.jp/keisei_1092)
-* [mixcloud](https://www.mixcloud.com/keisei_1092)
+* [YouTube](https://youtube.com/user/keisei1092)
+* [Bandcamp](https://https://miraitoarumachi.bandcamp.com)
+* [SoundCloud](https://soundcloud.com/keisei_1092)
+* [Piapro](https://piapro.jp/keisei_1092)
+* [Mixcloud](https://www.mixcloud.com/keisei_1092)
 
 ## store
 
-* [akiba-hobby](https://ec.akbh.jp/products/list.php?maker_id=102)
-* [bandcamp](https://miraitoarumachi.bandcamp.com)
-* [booth](https://miraitoarumachi.booth.pm)
+* [AKIBA-HOBBY](https://ec.akbh.jp/products/list.php?maker_id=102)
+* [BOOTH](https://miraitoarumachi.booth.pm)
 
 ## fan
 
-* [pixiv fanbox](https://www.pixiv.net/fanbox/creator/604687)
-* [patreon](https://www.patreon.com/keisei_1092)
+* [pixivFANBOX](https://www.pixiv.net/fanbox/creator/604687)
+* [Patreon](https://www.patreon.com/keisei_1092)
 
 ## note
 
