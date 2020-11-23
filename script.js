@@ -7,7 +7,7 @@ const addFlagToTitle = () => {
 const isHoliday = () => {
     // 暫定で勤労感謝の日かどうかだけ判別する
     const today = new Date();
-    return today.getMonth() === 10 && getDay() === 23;
+    return today.getMonth() === 10 && getDate() === 23;
 };
 
 if (isHoliday()) addFlagToTitle();
