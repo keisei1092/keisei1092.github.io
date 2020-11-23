@@ -43,6 +43,12 @@
   font-weight: normal;
 }
 
+.flag {
+  margin-bottom: 20px;
+  font-size: 36px;
+  display: none;
+}
+
 @media (prefers-color-scheme: light) {
   .title > a {
     color: #393939;

@@ -16,7 +16,8 @@
 <body>
   <div class="wrapper">
     <header>
-      <h1 class="title">
+      <h1 id="title" class="title">
+        <div id="japanese-flag" class="flag">🎌</div>
         <a href="/">ミライトアルマチ構想 / keisei</a>
       </h1>
       <p>{{ site.description | default: site.github.project_tagline }}</p>
@@ -50,6 +51,7 @@
     </footer>
   </div>
   <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
+  <script src="./script.js"></script>
 
   {% if site.google_analytics %}
   <script>
