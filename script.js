@@ -5,9 +5,9 @@ const addFlagToTitle = () => {
 };
 
 const isHoliday = () => {
-    // 暫定で勤労感謝の日かどうかだけ判別する
+    // 暫定で元旦 or 勤労感謝の日かどうかだけ判別する
     const today = new Date();
-    return today.getMonth() === 10 && today.getDate() === 23;
+    return (today.getMonth() === 10 && today.getDate() === 23) || (today.getMonth() === 0 && today.getDate() === 1);
 };
 
 if (isHoliday()) addFlagToTitle();
