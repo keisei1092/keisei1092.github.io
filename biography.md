@@ -17,6 +17,7 @@
 
 ## Activities
 
+* 「桜ミク 〜桜妖精ver.〜」1/7スケールフィギュア (spiritale製作) PV BGM「saku*life」
 * CBCラジオ開局70周年プレキャンペーン番組「RADIO MIKU」2021/01/06回 「Singularity」
 * 東京電機大学東京千住キャンパス 旭祭 FRENZY.NET x VOCALOID同好会 DJ出演
 * 中央大学後楽園キャンパス 理工白門祭 ボーカロイド同好会ミクチェイン DJ、アコースティックライブ出演（フルート: keisei, アコースティックギター: 森羅）
