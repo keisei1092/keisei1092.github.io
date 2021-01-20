@@ -21,3 +21,15 @@
 ![焼津富士山丼](photos/yaizu.jpeg)
 
 焼津富士山丼
+
+![雁木通りプラザ](photos/gangidoriplaza.jpeg)
+
+雁木通りプラザ
+
+![弘前さくらまつり](photos/hirosakisakurafest.jpeg)
+
+弘前さくらまつり
+
+![上賀茂神社 細殿、立砂](photos/kamigamoshrine.jpg)
+
+上賀茂神社 細殿、立砂
