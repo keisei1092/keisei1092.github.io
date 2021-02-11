@@ -1,4 +1,6 @@
-![top](images/top.png)
+<p class="cover-image">
+  <img src="images/top.png" alt="top" />
+</p>
 
 2020/11/28 「ミライトアルマチ空絵」リリースしました。配信はiTunes Store, Apple Music, Spotifyなどで、物理はマジカルミライ2020 クリエイターズマーケットで頒布、BOOTHで通販し、完売いたしました。
 
