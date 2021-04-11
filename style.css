@@ -1,8 +1,6 @@
-* {
-  font-feature-settings: "palt";
-  letter-spacing: 0.1em;
-  font-family: Charter, 游明朝, "Yu Mincho", YuMincho, "Hiragino Mincho ProN",
-    "Hiragino Mincho Pro", HGS明朝E, メイリオ, Meiryo, serif;
+/* apply kerning to headers */
+h1, h2, h3, h4, h5, h6, header, .title {
+  font-feature-setting: "palt";
 }
 
 @media (prefers-color-scheme: dark) {
@@ -21,7 +19,6 @@
   h5,
   h6 {
     color: #cccccc;
-    letter-spacing: 0.17em;
   }
 
   /* img, video, body * [style*="background-image"] {
@@ -45,7 +42,6 @@
 .title {
   text-align: center;
   font-size: 1.1rem;
-  letter-spacing: 0.17rem;
   font-weight: normal;
 }
 
