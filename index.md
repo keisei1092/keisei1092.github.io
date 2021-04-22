@@ -7,15 +7,16 @@
 ## about
 
 * [biography](/biography)
+* [activities](/activities)
 * [discography](/discography)
 
 ## music
 
-* [niconico](http://www.nicovideo.jp/mylist/10180194)
+* [ニコニコ動画](http://www.nicovideo.jp/mylist/10180194)
 * [YouTube](https://youtube.com/user/keisei1092)
 * [Bandcamp](https://https://miraitoarumachi.bandcamp.com)
 * [SoundCloud](https://soundcloud.com/keisei_1092)
-* [Piapro](https://piapro.jp/keisei_1092)
+* [ピアプロ](https://piapro.jp/keisei_1092)
 * [Mixcloud](https://www.mixcloud.com/keisei_1092)
 
 ## store
