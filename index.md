@@ -2,9 +2,7 @@
   <img src="images/top.png" alt="top" />
 </p>
 
-2020/11/28 「ミライトアルマチ空絵」リリースしました。 
-CDはマジカルミライ2020 クリエイターズマーケットで頒布し、完売いたしました。   
-iTunes Store, Apple Music, Spotifyなどで音源配信中です。
+2020/11/28 「ミライトアルマチ空絵」リリースしました。CDは完売、音源はiTunes Store, Apple Music, Spotifyなどで配信中です。
 
 ## about
 
