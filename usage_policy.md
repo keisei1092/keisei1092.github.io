@@ -20,7 +20,7 @@
 Yes.<br />
 Please credit my name on your video or description.
 
-My music is free to use for independent creators and their UGC (User Generated Content).
+My music is free to use for individuals or groups, profit or non-profit.
 
 ## Q: Can I monetize my video if I've used music?
 
