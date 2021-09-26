@@ -21,15 +21,13 @@
 
 ![equipment](./images/equipment.jpg)
 
-- MacBook Pro (13-inch, 2018, Four Thunderbolt 3 Ports)
-    - 2.3 Ghz Quad-Core Intel Core i5
-    - 16 GB 2133 Mhz LPDDR3
+- MacBook Air (M1, 2020)
 - Logic Pro
 - 初音ミクV4X
+- Fender Made in Japan Hybrid II Telecaster
 - オーディオテクニカ ATH-M70x
 - FOSTEX PM0.3b
 - KORG microKEY Air 37
 - Pioneer DDJ-200, DDJ-400
-- Fender Made in Japan Hybrid II Telecaster
 - Steinberg UR12
 
