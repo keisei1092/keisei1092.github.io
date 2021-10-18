@@ -1,9 +1,9 @@
 <p class="cover-image">
-  <img src="images/top.png" alt="top" />
+  <img src="images/top.jpg" alt="top" />
 </p>
 
-2020/11/28 「ミライトアルマチ空絵」リリースしました。
-CDは完売、音源はiTunes Store, Apple Music, Spotifyなどで配信中です。
+2021/10/22 「mhnmtbr」リリースします。
+マジカルミライ2021大阪会場企画展にて頒布、通販は [BOOTH](https://miraitoarumachi.booth.pm/items/3338977) にて予約受け付けています。
 
 # about
 
