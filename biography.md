@@ -25,6 +25,7 @@
 - Logic Pro
 - 初音ミクV4X
 - Fender Made in Japan Hybrid II Telecaster
+- YAMAHA BB434
 - オーディオテクニカ ATH-M70x
 - FOSTEX PM0.3b
 - KORG microKEY Air 37
