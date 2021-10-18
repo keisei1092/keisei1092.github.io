@@ -1,5 +1,5 @@
 <p class="cover-image">
-  <img src="images/top.jpg" alt="top" />
+  <img src="images/top.jpg" alt="top" width="300" />
 </p>
 
 2021/10/22 「mhnmtbr」リリースします。
