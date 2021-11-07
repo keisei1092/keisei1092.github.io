@@ -27,7 +27,7 @@
 - Fender Made in Japan Hybrid II Telecaster
 - YAMAHA BB434
 - オーディオテクニカ ATH-M70x
-- FOSTEX PM0.3b
+- GENELEC G One
 - KORG microKEY Air 37
 - Pioneer DDJ-200, DDJ-400
 - Steinberg UR12
