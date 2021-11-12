@@ -2,8 +2,9 @@
   <img src="images/top.jpg" alt="top" width="300" />
 </p>
 
-2021/10/22 「mhnmtbr」リリースします。
-マジカルミライ2021大阪会場企画展にて頒布、通販は [BOOTH](https://miraitoarumachi.booth.pm/items/3338977) にて予約受け付けています。
+2021/10/22 「mhnmtbr」リリースしました。 
+マジカルミライ2021会場企画展にて頒布、完売いたしました。 
+スペースにお越し頂いた皆さま、ありがとうございました。
 
 # about
 
