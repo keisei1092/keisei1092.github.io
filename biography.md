@@ -28,6 +28,7 @@
 - YAMAHA BB434
 - オーディオテクニカ ATH-M70x
 - GENELEC G One
+- オーディオテクニカ AT2020
 - KORG microKEY Air 37
 - Pioneer DDJ-200, DDJ-400
 - Steinberg UR12
