@@ -19,8 +19,7 @@
 [YouTube](https://youtube.com/user/keisei1092)<br />
 [Bandcamp](https://https://miraitoarumachi.bandcamp.com)<br />
 [SoundCloud](https://soundcloud.com/keisei_1092)<br />
-[ピアプロ](https://piapro.jp/keisei_1092)<br />
-[Mixcloud](https://www.mixcloud.com/keisei_1092)
+[ピアプロ](https://piapro.jp/keisei_1092)
 
 ## store
 
