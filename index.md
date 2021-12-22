@@ -34,5 +34,5 @@
 # note
 
 [freebies](/freebies)<br />
-[photos](/photos)<br />
+[album](/album)<br />
 [special thanks](/special_thanks)
