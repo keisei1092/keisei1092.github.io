@@ -1,10 +1,10 @@
 <p class="cover-image">
-  <img src="images/top.jpg" alt="top" width="300" />
+  <img src="images/top.jpeg" alt="top" />
 </p>
 
-2021/10/22 「mhnmtbr」リリースしました。 
-マジカルミライ2021会場企画展にて頒布、完売いたしました。 
-スペースにお越し頂いた皆さま、ありがとうございました。
+2022/01/18 「マジカルミライ2021」Blu-ray, DVD 限定盤  
+[Amazon.co.jp](https://www.amazon.co.jp/dp/B09KTNDGJH) 様の購入特典を担当させて頂きました。  
+素敵な本編のお供に、どうぞお楽しみください。
 
 # about
 

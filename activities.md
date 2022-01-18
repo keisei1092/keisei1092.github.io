@@ -1,5 +1,11 @@
 # Activities
 
+## 2022
+
+* 「マジカルミライ2021」Blu-ray, DVD 限定盤
+  * Amazon.co.jp 購入特典 スペシャルRemixCD
+「初音天地開闢神話 (keisei's respect mix)」
+
 ## 2021
 
 * 初音ミク Particle Party 「Helium」バーチャルライブ演奏
