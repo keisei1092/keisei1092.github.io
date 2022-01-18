@@ -28,8 +28,7 @@
 
 ## fan
 
-[pixivFANBOX](https://www.pixiv.net/fanbox/creator/604687)<br />
-[Patreon](https://www.patreon.com/keisei_1092)
+[pixivFANBOX](https://www.pixiv.net/fanbox/creator/604687)
 
 # note
 
