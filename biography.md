@@ -7,11 +7,11 @@
 「マジカルミライ2017 楽曲コンテスト」に応募した「Singularity」が  
 グランプリとして採用され、同イベントで演奏される。
 
-主な出演歴
+主な経歴
 
-- マジカルミライ2017, 2018
-- SNOW MIKU 2018
-- 巡音ルカ 10th Anniversary Birthday Party
+- マジカルミライ2017 楽曲コンテスト グランプリ
+- マジカルミライ2017〜2018, SNOW MIKU 2018 DJ出演
+- マジカルミライ2021 Blu-ray&DVD限定盤 店舗別特典リミックスCD
 
 個人サークル「ミライトアルマチ構想」の名前には、  
 「未来、と或る街」と「未来と在る町」の2つの意図があり  
@@ -23,13 +23,13 @@
 
 - MacBook Air (M1, 2020)
 - Logic Pro
-- 初音ミクV4X
+- 初音ミクNT
 - Fender Made in Japan Hybrid II Telecaster
 - YAMAHA BB434
 - オーディオテクニカ ATH-M70x
 - GENELEC G One
 - オーディオテクニカ AT2020
 - KORG microKEY Air 37
-- Pioneer DDJ-200, DDJ-400
+- Pioneer DDJ-800
 - Steinberg UR12
 

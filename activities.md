@@ -3,8 +3,7 @@
 ## 2022
 
 * 「マジカルミライ2021」Blu-ray, DVD 限定盤
-  * Amazon.co.jp 購入特典 スペシャルRemixCD
-「初音天地開闢神話 (keisei's respect mix)」
+  * Amazon.co.jp 購入特典 スペシャルRemixCD「初音天地開闢神話 (keisei's respect mix)」
 
 ## 2021
 
@@ -17,12 +16,12 @@
 * クリエイターズ・スタジオ with ボカコレ 9月9日回 「since 2007」
 * 桜ミク x グッドスマイル x アニメイトカフェ 秋葉原・大阪日本橋 店内BGM「saku*life」
 * 桜ミク 〜桜妖精ver.〜 1/7スケールフィギュア PV BGM「saku*life」
-* CBCラジオ開局70周年プレキャンペーン番組「RADIO MIKU」1月6日回 「Singularity」
+* CBCラジオ「RADIO MIKU」1月6日回 「Singularity」
 
 ## 2020
 
 * 初音ミク マジカルミライ2020
-  * KARENT presents クリエイターズマーケット CD頒布「ミライトアルマチ空絵」
+  * クリエイターズマーケット CD頒布「ミライトアルマチ空絵」
 * 桜ミク × グッドスマイル × アニメイトカフェ 秋葉原・大阪日本橋
   * 店内BGM「ファンメイドライフ」
 
@@ -33,7 +32,7 @@
   * DJ、アコースティックライブ出演（フルート: keisei, アコースティックギター: 森羅）
 * 初音ミク マジカルミライ2019
   * 「マジカルミライ楽曲コンテスト 歴代グランプリ座談会」 出演
-  * KARENT presents クリエイターズマーケット SONOCA頒布「ミライトアルマチ都々里」
+  * クリエイターズマーケット SONOCA頒布「ミライトアルマチ都々里」
 * 高田夜サクラ ミクライブ！ZERO
   * 友情出演「Singularity」
 * 渋谷マルイ Megurine Luka 10th Anniversary Birthday Party DJ出演
@@ -44,7 +43,7 @@
 
 * 大阪市立大学学園祭 銀杏祭 ボカロ部Special Live DJ出演
 * 初音ミク マジカルミライ2018
-  * KARENT presents クリエイターズマーケット CD頒布「ミライトアルマチ延寿」
+  * クリエイターズマーケット CD頒布「ミライトアルマチ延寿」
   * 企画展無料観覧DJ LIVEステージ「keisei feat. DIVELA」出演
   * 公式ガイドブック インタビュー（楽曲コンテスト2017 x 2018グランプリ対談）掲載
   * 「初音ミク マジカルミライ2018 Blu-ray & DVD」特典映像に掲載
@@ -53,8 +52,8 @@
 * ボクラノミライ2018 テーマソング「うららすてっぷ♪」
 * 初音ミクVR「Singularity」
 * SNOW MIKU 2018
-  * KARENT presents クリエイターステージ  DJライブ
-  * KARENT presents クリエイターズマーケット CD頒布「ミライトアルマチ雪花」
+  * クリエイターステージ DJライブ出演
+  * クリエイターズマーケット CD頒布「ミライトアルマチ雪花」
   * 「マジカルミライ2017 応援上映」トークショーゲスト出演
   * 「SNOW MIKU LIVE! 2018」ライブ開場中BGM「Winter Sky Discovery」
 
