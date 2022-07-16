@@ -22,7 +22,7 @@
 - 初音ミクNT
 - Fender Made in Japan Hybrid II Telecaster
 - YAMAHA BB434
-- オーディオテクニカ ATH-M70x
+- オーディオテクニカ ATH-R70x
 - GENELEC G One
 - オーディオテクニカ AT2020
 - KORG microKEY Air 37
