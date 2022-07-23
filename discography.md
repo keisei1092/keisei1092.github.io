@@ -1,4 +1,6 @@
-### ミライトアルマチ空絵
+# discography
+
+## ミライトアルマチ空絵
 
 ![jacket](./images/discography/sorae.png)
 
@@ -13,7 +15,7 @@
 1. クリムゾンビート (sorae mix Instrumental)
 1. WALK AROUND STEREO (sorae mix Instrumental)
 
-### ミライトアルマチ都々里
+## ミライトアルマチ都々里
 
 ![jacket](./images/discography/tsuzuri.png)
 
@@ -31,7 +33,7 @@
 1. ホワイトキャンバスホワイトノイズ
 1. tsuzuri
 
-### ミライトアルマチ延寿
+## ミライトアルマチ延寿
 
 ![jacket](./images/discography/enju.jpg)
 
@@ -62,7 +64,7 @@
 1. Hifumi (Instrumental)
 1. envelope (Instrumental)
 
-### ミライトアルマチ詩恩
+## ミライトアルマチ詩恩
 
 ![jacket](./images/discography/shion.jpg)
 
@@ -74,7 +76,7 @@
 1. Does this make sense
 1. birthday
 
-### ミライトアルマチ衛星
+## ミライトアルマチ衛星
 
 ![jacket](./images/discography/satellite.jpg)
 
@@ -108,7 +110,7 @@
 1. ココロターミナル (Sky Lounge Remix)
 1. 地図にない街 (haru2036 remix)
 
-### ミライトアルマチ街道
+## ミライトアルマチ街道
 
 ![jacket](./images/discography/avenue.jpg)
 

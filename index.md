@@ -2,15 +2,16 @@
   <img src="images/top.jpeg" alt="top" />
 </p>
 
-2022/01/18 「マジカルミライ2021」Blu-ray, DVD 限定盤  
-[Amazon.co.jp](https://www.amazon.co.jp/dp/B09KTNDGJH) 様の購入特典を担当させて頂きました。  
-素敵な本編のお供に、どうぞお楽しみください。
+2022/07/24 マジカルミライ 楽曲コンテスト グランプリ (〜2021年) のみんなでCDを作りました。  
+素敵なジャケットイラストおよびCDデザインはrskさんに手がけて頂きました。  
+マジカルミライ 10th Anniversary クリエイターズマーケットでリリースします。
 
 # about
 
 [biography](/biography)<br />
 [activities](/activities)<br />
 [discography](/discography)<br />
+[live](/live)<br />
 [楽曲利用のきまり (usage policy)](/usage_policy)
 
 # links
