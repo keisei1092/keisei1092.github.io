@@ -11,6 +11,8 @@ ENTRANCE
 
 [https://twipla.jp/events/496794](https://twipla.jp/events/496794)
 
+---
+
 ## 2022/07/15 (金) 渋谷 R-lounge
 
 VOCALOID Shower Vol.11
@@ -24,6 +26,8 @@ Twipla参加表明 ¥2,000 (1ドリンク付)
 
 [https://twipla.jp/events/516810](https://twipla.jp/events/516810)
 
+---
+
 ## 2022/06/19 (日) 名古屋・栄 club JB'S
 
 ヨネハチフェス vol.13 x VOCALOID ADDICTION
@@ -36,6 +40,8 @@ ENTRANCE
 
 [https://twipla.jp/events/509797](https://twipla.jp/events/509797)
 
+---
+
 ## 2022/05/21 (土) 渋谷 nagomix
 
 NEXTLIGHT LIVE
@@ -46,6 +52,8 @@ ENTRANCE
 ¥3,000 (1ドリンク付)
 
 [http://twvt.me/nextlight_live_01](http://twvt.me/nextlight_live_01)
+
+---
 
 ### 2022/02/26 (土) 北海道・札幌 CLUB ANiMA
 

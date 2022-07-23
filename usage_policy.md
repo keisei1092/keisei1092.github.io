@@ -9,6 +9,8 @@
 
 なお、「Singularity」のみ、著作権管理団体へ一部権利委託をしております。
 
+---
+
 ## Q: 楽曲を使った動画を収益化してもいいですか？
 
 上記のルールに従っていれば構いません。
@@ -21,6 +23,8 @@ Yes.<br />
 Please credit my name on your video or description.
 
 My music is free to use for both individuals or groups, profit or non-profit.
+
+---
 
 ## Q: Can I monetize my video if I've used music?
 

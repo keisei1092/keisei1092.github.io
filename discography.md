@@ -50,7 +50,7 @@
 1. dasher
 1. tetra
 
-### ミライトアルマチ雪花
+## ミライトアルマチ雪花
 
 ![jacket](./images/discography/sekka.jpg)
 
@@ -93,7 +93,7 @@
 1. IRIS SCREEN (robo party edge rmx)
 1. ブライトシティ (Osanzi remix)
 
-### ミライトアルマチ情緒
+## ミライトアルマチ情緒
 
 ![jacket](./images/discography/emotions.jpg)
 
