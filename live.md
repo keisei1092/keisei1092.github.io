@@ -55,7 +55,7 @@ ENTRANCE
 
 ---
 
-### 2022/02/26 (土) 北海道・札幌 CLUB ANiMA
+## 2022/02/26 (土) 北海道・札幌 CLUB ANiMA
 
 Miku no Porop!! -ミクノポロップ- vol.2
 
