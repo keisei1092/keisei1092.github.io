@@ -2,6 +2,11 @@
 
 ## 2022
 
+* 初音ミク マジカルミライ 10th Anniversary
+  * マジカルミライ 楽曲コンテスト歴代グランプリ座談会II MC出演
+（ゲスト: ごーぶすさん、せきこみごはんさん）
+  * クリエイターズマーケット出展
+    * コンピレーション「MAGICAL MIRAI SONG CONTEST CHAMPIONS」リリース
 * 「マジカルミライ2021」Blu-ray, DVD 限定盤
   * Amazon.co.jp 購入特典 スペシャルRemixCD「初音天地開闢神話 (keisei's respect mix)」
 

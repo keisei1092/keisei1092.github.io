@@ -1,5 +1,19 @@
 # live
 
+## 2022/09/04 (日) 幕張メッセ 10・11ホール
+
+マジカルミライ 楽曲コンテスト歴代グランプリ座談会II
+
+13:30〜14:30
+
+企画展入場料  
+¥500
+
+[https://magicalmirai.com/10th/tokyo_exstage.html](https://magicalmirai.com/10th/tokyo_exstage.html)
+
+---
+
+
 ## 2022/08/27 (土) 渋谷 WOMB LOUNGE
 
 誕生日が命日 (Vol.2)
