@@ -1,5 +1,32 @@
 # live
 
+## 2022/12/18 (日) 恵比寿 cafe&dining nurikabe+
+
+Vocaloid=Happy! (#ボカハピ)
+
+START 14:00
+
+ENTRANCE  
+¥3,000 (1ドリンク込)
+
+[https://twipla.jp/events/534520](https://twipla.jp/events/534520)
+
+---
+
+## 2022/12/04 (日) 渋谷 nagomix
+
+39noPops vol.9
+
+START 13:00
+CLOSE 20:00
+
+ENTRANCE  
+¥3,000 (1ドリンク込)
+
+[https://twipla.jp/events/534520](https://twipla.jp/events/534520)
+
+---
+
 ## 2022/09/04 (日) 幕張メッセ 10・11ホール
 
 マジカルミライ 楽曲コンテスト歴代グランプリ座談会II
@@ -102,6 +129,34 @@ ENTRANCE
 コスプレ割 ¥2,500
 
 [https://twipla.jp/events/463537](https://twipla.jp/events/463537)
+
+---
+
+## 2019/08/11 (土) 大阪 なんば MILULARI
+
+カガヤクミライ
+
+OPEN 23:00  
+CLOSE 29:00
+
+ENTRANCE  
+¥3,000 (1ドリンク付)  
+サイリウム持ち込み割、コスプレ割 各種 ¥500 割引（併用不可）
+
+[http://twvt.me/kagayakumirai](http://twvt.me/kagayakumirai)
+
+---
+
+## 2019/08/09 (金) インテックス大阪 4号館・5号館B
+
+マジカルミライ 楽曲コンテスト歴代グランプリ座談会
+
+15:30〜16:30
+
+企画展入場料  
+¥500
+
+[https://magicalmirai.com/2019/osaka_ex_stage.html#osaka_exstage_free](https://magicalmirai.com/2019/osaka_ex_stage.html#osaka_exstage_free)
 
 ---
 
