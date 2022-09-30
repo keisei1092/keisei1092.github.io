@@ -2,6 +2,7 @@
 
 ## 2022
 
+* CBCラジオ「RADIO MIKU」9月30日回「ストローク」
 * 初音ミク マジカルミライ 10th Anniversary
   * マジカルミライ 楽曲コンテスト歴代グランプリ座談会II MC出演<br />（ゲスト: ごーぶすさん、せきこみごはんさん）
   * クリエイターズマーケット出展<br />コンピレーション「MAGICAL MIRAI SONG CONTEST CHAMPIONS」リリース
