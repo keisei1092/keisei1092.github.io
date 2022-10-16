@@ -69,7 +69,7 @@ ENTRANCE
 
 ---
 
-## 2022/02/26 (土) 北海道・札幌 CLUB ANiMA
+## 2022/02/26 (土) 札幌 CLUB ANiMA
 
 Miku no Porop!! -ミクノポロップ- vol.2
 
@@ -80,3 +80,70 @@ ENTRANCE
 コスプレ割 -¥100
 
 [https://twipla.jp/events/496727](https://twipla.jp/events/496727)
+
+---
+
+## 2021/12/18 (土) 秋葉原 39Stage*
+
+ミクステDJLIVE
+
+開演  15:30
+
+---
+
+## 2021/03/20 (土) 札幌 Sound Lab Mole
+
+WINTER SNOW EUPHORiA
+
+OPEN 23:00
+
+ENTRANCE  
+¥3,000 (1ドリンク付)  
+コスプレ割 ¥2,500
+
+[https://twipla.jp/events/463537](https://twipla.jp/events/463537)
+
+---
+
+## 2019/03/16 (土) 岡山 emotion
+
+ミクノモーション vol2
+
+OPEN 12:50 / START 13:00 / END 19:30
+
+ENTRANCE  
+¥2,500 (1ドリンク代込み)  
+Twipla割 ¥500off  
+遠征割 ¥500off  
+コスプレ割 ¥500off  
+ボカロP割 ¥1,000off
+
+[https://twipla.jp/events/354385](https://twipla.jp/events/354385)
+
+---
+
+## 2019/03/09 (土) 渋谷 LOUNGE NEO
+
+VOCALOID FREAK VOL.85
+
+OPEN 15:00 / CLOSE 21:00
+
+ENTRANCE  
+¥2,000 (別途1Drink ¥600)  
+参加表明入場 ¥1,500 (別途1Drink ¥600)
+
+[https://twipla.jp/events/367418](https://twipla.jp/events/367418)
+
+---
+
+## 2018/07/29 (日) 大阪 livehouse STARBOX
+
+RadicalVocaloid vol.18
+
+OPEN 13:00 / START 13:15
+
+ENTRANCE  
+¥2,000 (+1ドリンク別)  
+各種割引で ¥1,500 (+1ドリンク別)
+
+[https://twipla.jp/events/319683](https://twipla.jp/events/319683)
