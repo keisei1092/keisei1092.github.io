@@ -132,6 +132,49 @@ ENTRANCE
 
 ---
 
+## 2019/11/23 (土) 新宿azito
+
+39 no Pops Vol.3
+
+OPEN 14:00  
+CLOSE 20:00
+
+ENTRANCE ¥2,500  
+参加表明 ¥2,000
+
+[http://twvt.me/39nopops_vol3](http://twvt.me/39nopops_vol3)
+
+---
+
+## 2019/09/07 (土) 名古屋・栄 エンターテイメントスペース RELATION
+
+VOCALOID Reprise
+
+OPEN 13:00  
+CLOSE 19:00
+
+ENTRANCE ¥2,500 (1D込み)  
+ツイプラ割引orフライヤー割引、コスプレ割引、遠征割引 各種 500円 OFF （併用は2つまで）
+
+[http://twvt.me/vocaloid_reprise_vol7](http://twvt.me/vocaloid_reprise_vol7)
+
+---
+
+## 2019/08/31 (土) 千葉 ラ・ジュエ・ド・シエル 幕張
+
+ツナガルミライ2019 DAY2
+
+OPEN 20:30  
+START 21:30  
+CLOSE 24:00
+
+会費  
+¥6,000
+
+[https://twipla.jp/events/370681](https://twipla.jp/events/370681)
+
+---
+
 ## 2019/08/11 (土) 大阪 なんば MILULARI
 
 カガヤクミライ
