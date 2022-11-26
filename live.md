@@ -23,7 +23,7 @@ CLOSE 20:00
 ENTRANCE  
 ¥3,000 (1ドリンク込)
 
-[https://twipla.jp/events/534520](https://twipla.jp/events/534520)
+[http://twvt.me/39nopops_vol9](http://twvt.me/39nopops_vol9)
 
 ---
 
