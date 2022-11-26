@@ -2,7 +2,7 @@
 
 ## 2023
 
-* 初音ミク マジカルミライ 10th Anniversary Blu-ray & DVD 10th記念盤付属<br />メモリアルソングCD「MIRACLE SONGS」
+* 初音ミク マジカルミライ 10th Anniversary Blu-ray & DVD 10th記念盤付属 メモリアルソングCD「MIRACLE SONGS」
   * 書き下ろし「リアライズ」（keisei x DIVELA コラボ）
 
 ## 2022
