@@ -234,6 +234,21 @@ ENTRANCE
 
 ---
 
+## 2018/12/01 (土) 新宿 azito
+
+39 no Pops
+
+OPEN 14:00  
+CLOSE 20:00
+
+ENTRANCE  
+¥2,000  
+参加表明 ¥1,500
+
+[https://twipla.jp/events/343186](https://twipla.jp/events/343186)
+
+---
+
 ## 2018/07/29 (日) 大阪 livehouse STARBOX
 
 RadicalVocaloid vol.18
@@ -245,3 +260,19 @@ ENTRANCE
 各種割引で ¥1,500 (+1ドリンク別)
 
 [https://twipla.jp/events/319683](https://twipla.jp/events/319683)
+
+---
+
+## 2017/12/29 (金) 渋谷 nagomix
+
+2017's VOCALIFE
+
+OPEN 17:00  
+CLOSE 23:00
+
+ENTRANCE  
+¥2,000  
+参加表明 ¥1,500  
+高校生以下 ¥1,000
+
+[https://twipla.jp/events/282136](https://twipla.jp/events/282136)
