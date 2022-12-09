@@ -249,6 +249,20 @@ ENTRANCE
 
 ---
 
+## 2018/09/02 (日) 千葉 幕張メッセ 10ホール・11ホール
+
+BAND & DJ LIVEステージ  
+Team tilt-six(Band Set) / keisei feat. DIVELA
+
+START 15:00
+
+企画展入場料  
+¥500
+
+[https://magicalmirai.com/2018/tokyo_exstage.html#exstage_free](https://magicalmirai.com/2018/tokyo_exstage.html#exstage_free)
+
+---
+
 ## 2018/07/29 (日) 大阪 livehouse STARBOX
 
 RadicalVocaloid vol.18
@@ -276,3 +290,31 @@ ENTRANCE
 高校生以下 ¥1,000
 
 [https://twipla.jp/events/282136](https://twipla.jp/events/282136)
+
+---
+
+## 2017/09/02 (土) 千葉 幕張メッセ 国際展示場 2ホール
+
+マジカルミライ2017  
+keisei x ミクダヨー DJステージ - Songle Syncコラボ -
+
+START 13:00
+
+企画展入場料  
+¥500
+
+[https://magicalmirai.com/2017/ex_stage.html](https://magicalmirai.com/2017/ex_stage.html)
+
+---
+
+## 2017/09/01 (金) 千葉 幕張メッセ 国際展示場 2ホール
+
+マジカルミライ 5th Anniversary Special Live
+
+OPEN 19:00  
+START 19:30
+
+チケット  
+全席指定 各日 ¥2,000
+
+[https://magicalmirai.com/2017/ex_stage.html](https://magicalmirai.com/2017/ex_stage.html)
