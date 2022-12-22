@@ -27,5 +27,8 @@
 - GENELEC G One
 - オーディオテクニカ AT2020
 - Pioneer DDJ-800
-- Steinberg UR12
+- Focusrite Clarett+ 2Pre
 
+
+<!-- 内容まとまったら公開したい -->
+<!-- シンセサイザー、エフェクトなど音作りについて詳しくは [こちら](/soundmake) -->
