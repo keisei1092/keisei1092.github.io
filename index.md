@@ -2,9 +2,8 @@
   <img src="images/top.jpeg" alt="top" />
 </p>
 
-2022/07/24 マジカルミライ 楽曲コンテスト グランプリ (〜2021年) のみんなでCDを作りました。  
-素敵なジャケットイラストおよびCDデザインはrskさんに手がけて頂きました。  
-マジカルミライ 10th Anniversary クリエイターズマーケットでリリースします。
+2023/02/04 ミライトアルマチ空絵の再録版をリリースしました。
+CDは [BOOTH](https://miraitoarumachi.booth.pm/items/4527914) wav音源は [Bandcamp](https://miraitoarumachi.bandcamp.com/album/mirai-to-aru-machi-sorae-reprise) よりお求めいただけます。
 
 # about
 
