@@ -1,5 +1,19 @@
 # live
 
+## 2023/04/15 (土) 下北沢 altoto
+
+Stirring VOCALOID
+
+START 15:00
+
+ENTRANCE  
+¥1,000  
+学生割 ¥500 (学生証提示)
+
+[https://twipla.jp/events/556247](https://twipla.jp/events/556247)
+
+---
+
 ## 2022/12/18 (日) 恵比寿 cafe&dining nurikabe+
 
 Vocaloid=Happy! (#ボカハピ)
