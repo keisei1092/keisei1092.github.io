@@ -12,6 +12,13 @@ h1, h2, h3, h4, h5, h6, header, .title {
     /* --c-interactive: var(--c-dark-interactive); */
   }
 
+  a {
+    color: rgb(125, 187, 247);
+  }
+  a:visited {
+    color: rgb(190, 125, 248);
+  }
+
   h1,
   h2,
   h3,
