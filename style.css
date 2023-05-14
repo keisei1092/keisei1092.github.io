@@ -1,8 +1,16 @@
 /* apply kerning to headers */
-h1, h2, h3, h4, h5, h6, header, .title {
-  font-feature-setting: "palt";
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+header,
+.title {
+  -webkit-font-feature-setting: "palt";
 }
 
+/* ダークモードに関する設定 */
 @media (prefers-color-scheme: dark) {
   html,
   body {
@@ -87,4 +95,23 @@ h1, h2, h3, h4, h5, h6, header, .title {
 
 .cover-image {
   text-align: center;
+}
+
+.top-link {
+  line-height: 1.7em;
+}
+
+/* bandcamp */
+.bandcamp-player {
+  border: 0;
+  height: 120px;
+  width: 400px; /* PC, tab幅 */
+  margin-bottom: 16px;
+}
+
+/* bandcamp (SP幅) */
+@media print, screen and (max-width: 400px) {
+  .bandcamp-player {
+    width: 100%;
+  }
 }

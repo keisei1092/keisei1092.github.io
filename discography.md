@@ -2,22 +2,26 @@
 
 ## ミライトアルマチ空絵
 
-![jacket](./images/discography/sorae.png)
+<img alt="ミライトアルマチ空絵" src="./images/discography/sorae.png" width="400" />
+
+<iframe class="bandcamp-player" src="https://bandcamp.com/EmbeddedPlayer/album=3409945041/size=large/bgcol=333333/linkcol=4ec5ec/tracklist=false/artwork=none/transparent=true/" seamless><a href="https://miraitoarumachi.bandcamp.com/album/mirai-to-aru-machi-sorae-reprise">Mirai To Aru Machi Sorae (Reprise) by keisei</a></iframe>
 
 イラスト OTOMIKA [Tumblr](https://otomikakei.tumblr.com)
 
 1. きみの後ろ姿を視ていた
-1. zenmaikatatenikimiwadokoe
-1. クリムゾンビート (sorae mix)
-1. WALK AROUND STEREO (sorae mix)
-1. きみの後ろ姿を視ていた (Instrumental)
-1. zenmaikatatenikimiwadokoe (Instrumental)
-1. クリムゾンビート (sorae mix Instrumental)
-1. WALK AROUND STEREO (sorae mix Instrumental)
+2. zenmaikatatenikimiwadokoe
+3. クリムゾンビート (sorae mix)
+4. WALK AROUND STEREO (sorae mix)
+5. きみの後ろ姿を視ていた (Instrumental)
+6. zenmaikatatenikimiwadokoe (Instrumental)
+7. クリムゾンビート (sorae mix Instrumental)
+8. WALK AROUND STEREO (sorae mix Instrumental)
 
 ## ミライトアルマチ都々里
 
-![jacket](./images/discography/tsuzuri.png)
+<img alt="ミライトアルマチ都々里" src="./images/discography/tsuzuri.png" width="400" />
+
+<iframe class="bandcamp-player" src="https://bandcamp.com/EmbeddedPlayer/album=2588944704/size=large/bgcol=333333/linkcol=4ec5ec/tracklist=false/artwork=none/transparent=true/" seamless><a href="https://miraitoarumachi.bandcamp.com/album/mirai-to-aru-machi-tsuzuri">Mirai To Aru Machi Tsuzuri by keisei</a></iframe>
 
 イラスト ゲソきんぐ [Twitter](https://twitter.com/Gesoking06)
 
@@ -35,7 +39,9 @@
 
 ## ミライトアルマチ延寿
 
-![jacket](./images/discography/enju.jpg)
+<img alt="ミライトアルマチ延寿" src="./images/discography/enju.jpg" width="400" />
+
+<iframe class="bandcamp-player" src="https://bandcamp.com/EmbeddedPlayer/album=1970150176/size=large/bgcol=262a2b/linkcol=4ec5ec/tracklist=false/artwork=none/transparent=true/" seamless><a href="https://miraitoarumachi.bandcamp.com/album/mirai-to-aru-machi-enju">Mirai To Aru Machi Enju by keisei</a></iframe>
 
 1. アトリウム
 1. ＃918D40
@@ -52,7 +58,7 @@
 
 ## ミライトアルマチ雪花
 
-![jacket](./images/discography/sekka.jpg)
+<img alt="" src="./images/discography/sekka.jpg" width="400" />
 
 イラスト Kazuna [Twitter](https://twitter.com/kazzzuna)
 
@@ -66,7 +72,7 @@
 
 ## ミライトアルマチ詩恩
 
-![jacket](./images/discography/shion.jpg)
+<img alt="ミライトアルマチ詩恩" src="./images/discography/shion.jpg" width="400" />
 
 1. ゆめアップロード
 1. saku*life
@@ -78,7 +84,7 @@
 
 ## ミライトアルマチ衛星
 
-![jacket](./images/discography/satellite.jpg)
+<img alt="ミライトアルマチ衛星" src="./images/discography/satellite.jpg" width="400" />
 
 1. 夢の魔法
 1. サクラセンセーショナル
@@ -95,7 +101,7 @@
 
 ## ミライトアルマチ情緒
 
-![jacket](./images/discography/emotions.jpg)
+<img alt="ミライトアルマチ情緒" src="./images/discography/emotions.jpg" width="400" />
 
 1. 明日見る街
 1. 桜色エレクトロ
@@ -112,7 +118,7 @@
 
 ## ミライトアルマチ街道
 
-![jacket](./images/discography/avenue.jpg)
+<img alt="ミライトアルマチ街道" src="./images/discography/avenue.jpg" width="400" />
 
 1. 地図にない街
 1. Polka dot

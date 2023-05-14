@@ -1,5 +1,22 @@
 # live
 
+## 2023/06/17 (土) 名古屋・新栄 CLUB MAGO
+
+超ボカクラ Produce by RE:VOC&#64;LOIDER
+
+OPEN 11:45  
+START 12:00
+
+ENTRANCE  
+¥4,000  
+Twipla参加表明割 ¥3,500 (ステッカー1種つき)  
+チケット前売 ¥3,000 (ステッカー2種つき)
+
+[https://twipla.jp/events/560153](https://twipla.jp/events/560153)  
+[https://tiget.net/events/247727](https://tiget.net/events/247727)
+
+---
+
 ## 2023/04/15 (土) 下北沢 altoto
 
 Stirring VOCALOID
