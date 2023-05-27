@@ -17,7 +17,7 @@ CDは[BOOTH](https://miraitoarumachi.booth.pm/items/4527914) wav音源は [Bandc
 
 <span class="top-link">[ニコニコ動画](http://www.nicovideo.jp/mylist/10180194)</span><br />
 <span class="top-link">[YouTube](https://youtube.com/user/keisei1092)</span><br />
-<span class="top-link">[Bandcamp](https://https://miraitoarumachi.bandcamp.com)</span><br />
+<span class="top-link">[Bandcamp](https://miraitoarumachi.bandcamp.com)</span><br />
 <span class="top-link">[SoundCloud](https://soundcloud.com/keisei_1092)</span><br />
 <span class="top-link">[ピアプロ](https://piapro.jp/keisei_1092)</span>
 
