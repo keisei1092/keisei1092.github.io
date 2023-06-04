@@ -1,5 +1,20 @@
 # live
 
+## 2023/09/02 (土) 幕張メッセ国際展示場10ホール
+
+Digital Stars @ MAGICAL MIRAI 2023 in TOKYO
+
+OPEN 19:15
+START 19:45
+
+ENTRANCE  
+全席指定 ¥2,000  
+チケット販売期間など詳しくは公式サイトの情報をごらんください。
+
+[https://magicalmirai.com/2023/tokyo_exstage.html](https://magicalmirai.com/2023/tokyo_exstage.html)
+
+---
+
 ## 2023/06/17 (土) 名古屋・新栄 CLUB MAGO
 
 超ボカクラ Produce by RE:VOC&#64;LOIDER
