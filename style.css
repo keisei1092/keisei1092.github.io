@@ -11,6 +11,13 @@ header,
   -webkit-font-feature-setting: "palt";
 }
 
+body {
+  font-family: "Helvetica Neue", Arial, sans-serif;
+  color: #444;
+  line-height: 1.5rem;
+  font-size: 15px;
+}
+
 /* ダークモードに関する設定 */
 @media (prefers-color-scheme: dark) {
   html,
@@ -55,13 +62,6 @@ header,
   }
 }
 
-body {
-  font-family: "Helvetica Neue", Arial, sans-serif;
-  color: #444;
-  line-height: 1.5rem;
-  font-size: 15px;
-}
-
 .title {
   text-align: center;
   font-size: 1.2rem;
@@ -74,12 +74,14 @@ body {
   display: none;
 }
 
+/* 「ミライトアルマチ構想 / keisei」の色 (ライトモード) */
 @media (prefers-color-scheme: light) {
   .title > a {
     color: #393939;
   }
 }
 
+/* 「ミライトアルマチ構想 / keisei」の色 (ダークモード) */
 @media (prefers-color-scheme: dark) {
   .title > a {
     color: #cccccc;
