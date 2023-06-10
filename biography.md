@@ -15,8 +15,6 @@
 
 ## 使用機材
 
-![equipment](./images/equipment.jpg)
-
 - MacBook Air (M1, 2020)
 - Logic Pro
 - 初音ミクNT
@@ -28,7 +26,3 @@
 - オーディオテクニカ AT2020
 - Pioneer DDJ-800
 - Focusrite Clarett+ 2Pre
-
-
-<!-- 内容まとまったら公開したい -->
-<!-- シンセサイザー、エフェクトなど音作りについて詳しくは [こちら](/soundmake) -->
