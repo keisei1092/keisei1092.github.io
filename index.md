@@ -34,4 +34,3 @@ CDは[BOOTH](https://miraitoarumachi.booth.pm/items/4527914) wav音源は [Bandc
 
 <span class="top-link">[freebies](/freebies)</span><br />
 <span class="top-link">[album](/album)</span><br />
-<span class="top-link">[special thanks](/special_thanks)</span>
