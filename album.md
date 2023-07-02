@@ -38,9 +38,21 @@
 
 五十鈴川
 
+![妙高山](album/myokozan.jpg)
+
+妙高山
+
 ![雁木通りプラザ](album/gangidoriplaza.jpeg)
 
 雁木通りプラザ
+
+![寝覚の床](album/nezamenotoko.jpg)
+
+寝覚の床
+
+![奈良井宿](album/naraijuku.jpg)
+
+奈良井宿
 
 ![弘前さくらまつり](album/hirosakisakurafest.jpeg)
 
