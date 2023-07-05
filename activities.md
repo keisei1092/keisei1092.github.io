@@ -12,7 +12,7 @@
 
 * CBCラジオ「RADIO MIKU」9月30日回「ストローク」
 * 初音ミク マジカルミライ 10th Anniversary
-  * マジカルミライ 楽曲コンテスト歴代グランプリ座談会II MC出演<br />（ゲスト: ごーぶすさん、せきこみごはんさん）
+  * マジカルミライ 楽曲コンテスト歴代グランプリ座談会II MC出演
 * 「マジカルミライ2021」Blu-ray, DVD 限定盤
   * Amazon.co.jp 購入特典 スペシャルRemixCD「初音天地開闢神話 (keisei's respect mix)」
 
