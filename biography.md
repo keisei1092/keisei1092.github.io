@@ -12,7 +12,7 @@
 
 ## 使用機材
 
-- MacBook Air (M1, 2020)
+- MacBook Pro (M2 Max, 2023)
 - Logic Pro
 - 初音ミクNT
 - Fender Made in Japan Hybrid II Telecaster
