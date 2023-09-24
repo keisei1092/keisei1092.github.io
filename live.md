@@ -1,5 +1,19 @@
 # live
 
+## 2023/12/23 (土) 名古屋・栄 MIRAI NAGOYA
+
+ヨネハチフェス vol.18 〜winter〜
+
+OPEN 15:00  
+END 21:00
+
+ENTRANCE  
+¥3,000  
+取り置き ¥2,500  
+最速割引 (9/27までに参加表明) ¥2,000
+
+[https://twipla.jp/events/578055](https://twipla.jp/events/578055)
+
 ## 2023/09/02 (土) 幕張メッセ国際展示場10ホール
 
 Digital Stars @ MAGICAL MIRAI 2023 in TOKYO
