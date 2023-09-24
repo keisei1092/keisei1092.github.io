@@ -14,6 +14,8 @@ ENTRANCE
 
 [https://twipla.jp/events/578055](https://twipla.jp/events/578055)
 
+---
+
 ## 2023/09/02 (土) 幕張メッセ国際展示場10ホール
 
 Digital Stars @ MAGICAL MIRAI 2023 in TOKYO
