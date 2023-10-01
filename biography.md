@@ -14,6 +14,7 @@
 
 - MacBook Pro (M2 Max, 2023)
 - Logic Pro
+- Ableton Live 10 Suite
 - 初音ミクNT
 - Fender Made in Japan Hybrid II Telecaster
 - YAMAHA BB434
