@@ -16,6 +16,21 @@ ENTRANCE
 
 ---
 
+## 2023/11/25 (土) 松本 Studio SONIC
+
+俺は初音ミクで行く Vol.05
+
+OPEN 13:00  
+END 19:00
+
+ENTRANCE  
+¥2,500 (1ドリンク付)  
+学割 ¥1,500 (1ドリンク付)
+
+[https://twipla.jp/events/582037](https://twipla.jp/events/582037)
+
+---
+
 ## 2023/09/02 (土) 幕張メッセ国際展示場10ホール
 
 Digital Stars @ MAGICAL MIRAI 2023 in TOKYO
