@@ -17,6 +17,7 @@
 - Ableton Live 10 Suite
 - 初音ミクNT
 - Fender Made in Japan Hybrid II Telecaster
+- Fender Player Plus Stratocaster
 - YAMAHA BB434
 - YAMAHA P-45
 - オーディオテクニカ ATH-R70x
