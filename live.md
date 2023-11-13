@@ -16,6 +16,20 @@ ENTRANCE
 
 ---
 
+## 2023/12/02 (土) 秋葉原 MOGRA
+
+NXFES vol.2
+
+OPEN 14:00  
+END 20:00
+
+ENTRANCE  
+¥3,000（1ドリンク別）  
+
+[https://t.livepocket.jp/e/nextlight-festival-02](https://t.livepocket.jp/e/nextlight-festival-02)
+
+---
+
 ## 2023/11/25 (土) 松本 Studio SONIC
 
 俺は初音ミクで行く Vol.05
