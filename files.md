@@ -2,7 +2,7 @@
 
 ## プロジェクトファイル
 
-Logic Proで制作した楽曲のプロジェクトファイルをpixivFANBOXを購読頂いている方に配布しています。 
+Logic Proで制作した楽曲のプロジェクトファイルを主にpixivFANBOXをご購読頂いている方に配布しています。 
 参考にして頂ければ幸いです。 
 二次配布、レンダリングして配布することはご遠慮ください。
 
@@ -16,6 +16,7 @@ Logic Proで制作した楽曲のプロジェクトファイルをpixivFANBOXを
 参考にして頂いたりリミックスなどにお使いください。 
 二次配布、レンダリングして配布することはご遠慮ください。
 
+- [ブライトシティ のステムファイル](https://miraitoarumachi.fanbox.cc/posts/7085523)
 - [16 のステムファイル](https://miraitoarumachi.fanbox.cc/posts/6768841)
 - [mic test のステムファイル](https://miraitoarumachi.fanbox.cc/posts/681474)
 - [contrail のステムファイル](https://miraitoarumachi.fanbox.cc/posts/262368)
