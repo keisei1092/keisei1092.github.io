@@ -1,5 +1,22 @@
 # live
 
+## 2023/12/24 (日) 渋谷 nagomix
+
+39 no Pops vol.13
+
+OPEN 15:00  
+CLOSE: 20:00
+
+ENTRANCE  
+¥3,000  
+U20割: ¥2,000  
+ハシゴ割: ¥2,000  
+5周年割: ¥2,500
+
+[https://twvt.me/39nopops_5th_anniv](https://twvt.me/39nopops_5th_anniv)
+
+---
+
 ## 2023/12/23 (土) 名古屋・栄 MIRAI NAGOYA
 
 ヨネハチフェス vol.18 〜winter〜
