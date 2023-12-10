@@ -46,10 +46,6 @@
 
 雁木通りプラザ
 
-![寝覚の床](album/nezamenotoko.jpg)
-
-寝覚の床
-
 ![なわて通り 若がえりの水](album/wakagaeri_water.jpg)
 
 なわて通り 若がえりの水
@@ -61,6 +57,10 @@
 ![奈良井宿](album/naraijuku.jpg)
 
 奈良井宿
+
+![寝覚の床](album/nezamenotoko.jpg)
+
+寝覚の床
 
 ![弘前さくらまつり](album/hirosakisakurafest.jpeg)
 
