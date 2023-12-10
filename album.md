@@ -50,6 +50,14 @@
 
 寝覚の床
 
+![なわて通り 若がえりの水](album/wakagaeri_water.jpg)
+
+なわて通り 若がえりの水
+
+![源智の井戸](album/genchi_well.jpg)
+
+源智の井戸
+
 ![奈良井宿](album/naraijuku.jpg)
 
 奈良井宿
