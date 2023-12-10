@@ -4,8 +4,8 @@
 
 39 no Pops vol.13
 
-OPEN 15:00  
-CLOSE: 20:00
+OPEN 13:00  
+CLOSE 20:00
 
 ENTRANCE  
 ¥3,000  
