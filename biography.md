@@ -25,3 +25,5 @@
 - オーディオテクニカ AT2020
 - Pioneer DDJ-800
 - Focusrite Clarett+ 2Pre
+
+機材について詳しくはこちら・・・ [愛機の部屋](/equipments)
