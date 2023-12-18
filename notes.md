@@ -1,3 +1,3 @@
 # notes
 
-- [愛機の部屋](/equipment)
+- [愛機の部屋](/equipments)

@@ -32,6 +32,6 @@ CDは[BOOTH](https://miraitoarumachi.booth.pm/items/4527914) wav音源は [Bandc
 
 # note
 
-<span class="top-link">[files](/files)</span><br />
-<span class="top-link">[album](/album)</span><br />
 <span class="top-link">[notes](/notes)</span><br />
+<span class="top-link">[album](/album)</span><br />
+<span class="top-link">[files](/files)</span><br />
