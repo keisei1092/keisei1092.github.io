@@ -20,8 +20,8 @@
 - Fender Player Plus Stratocaster
 - YAMAHA BB434
 - YAMAHA P-45
+- RME Babyface Pro FS
 - オーディオテクニカ ATH-R70x
 - GENELEC G One
 - オーディオテクニカ AT2020
 - Pioneer DDJ-800
-- Focusrite Clarett+ 2Pre
