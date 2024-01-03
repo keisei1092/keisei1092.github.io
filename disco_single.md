@@ -16,7 +16,7 @@
 
 ### mhnmtbr
 
-<img alt="mhnmtbr" src="./images/discography/mhnmtbr.jpg" width="400 />
+<img alt="mhnmtbr" src="./images/discography/mhnmtbr.jpg" width="400" />
 
 1. mhnmtbr
 2. since 2007
