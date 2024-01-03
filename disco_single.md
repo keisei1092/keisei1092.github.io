@@ -1,6 +1,7 @@
 # discography
 
-[album, ep](./discography) [single](./single)
+[album, ep](./discography)  
+[single](./disco_single)
 
 ## single
 
