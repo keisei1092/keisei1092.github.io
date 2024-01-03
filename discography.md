@@ -1,6 +1,10 @@
 # discography
 
-## ミライトアルマチ空絵
+[album, ep](./discography) [single](./single)
+
+## album, ep
+
+### ミライトアルマチ空絵
 
 <img alt="ミライトアルマチ空絵" src="./images/discography/sorae.png" width="400" />
 
@@ -17,7 +21,7 @@
 7. クリムゾンビート (sorae mix Instrumental)
 8. WALK AROUND STEREO (sorae mix Instrumental)
 
-## ミライトアルマチ都々里
+### ミライトアルマチ都々里
 
 <img alt="ミライトアルマチ都々里" src="./images/discography/tsuzuri.png" width="400" />
 
@@ -37,7 +41,7 @@
 1. ホワイトキャンバスホワイトノイズ
 1. tsuzuri
 
-## ミライトアルマチ延寿
+### ミライトアルマチ延寿
 
 <img alt="ミライトアルマチ延寿" src="./images/discography/enju.jpg" width="400" />
 
@@ -56,7 +60,7 @@
 1. dasher
 1. tetra
 
-## ミライトアルマチ雪花
+### ミライトアルマチ雪花
 
 <img alt="" src="./images/discography/sekka.jpg" width="400" />
 
@@ -70,7 +74,7 @@
 1. Hifumi (Instrumental)
 1. envelope (Instrumental)
 
-## ミライトアルマチ詩恩
+### ミライトアルマチ詩恩
 
 <img alt="ミライトアルマチ詩恩" src="./images/discography/shion.jpg" width="400" />
 
@@ -82,7 +86,7 @@
 1. Does this make sense
 1. birthday
 
-## ミライトアルマチ衛星
+### ミライトアルマチ衛星
 
 <img alt="ミライトアルマチ衛星" src="./images/discography/satellite.jpg" width="400" />
 
@@ -99,7 +103,7 @@
 1. IRIS SCREEN (robo party edge rmx)
 1. ブライトシティ (Osanzi remix)
 
-## ミライトアルマチ情緒
+### ミライトアルマチ情緒
 
 <img alt="ミライトアルマチ情緒" src="./images/discography/emotions.jpg" width="400" />
 
@@ -116,7 +120,7 @@
 1. ココロターミナル (Sky Lounge Remix)
 1. 地図にない街 (haru2036 remix)
 
-## ミライトアルマチ街道
+### ミライトアルマチ街道
 
 <img alt="ミライトアルマチ街道" src="./images/discography/avenue.jpg" width="400" />
 
