@@ -2,6 +2,20 @@
 
 <span style="font-size: 12px;">こちらで掲示する情報は古い場合がありますので、各イベントのリンク先より最新の情報をご確認ください。</span>
 
+## 2024/04/20 (土) 秋葉原 MOGRA
+
+NXFES vol.3
+
+OPEN 14:00  
+CLOSE 20:00
+
+ENTRANCE  
+¥3,000 (1ドリンク別)  
+
+[https://t.livepocket.jp/e/nxfes-03](https://t.livepocket.jp/e/nxfes-03)
+
+---
+
 ## 2023/12/24 (日) 渋谷 nagomix
 
 39 no Pops vol.13
