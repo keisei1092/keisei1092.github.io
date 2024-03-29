@@ -14,7 +14,7 @@
 
 - MacBook Pro (M2 Max, 2023)
 - Logic Pro
-- Ableton Live 11 Suite
+- Ableton Live 12 Suite
 - 初音ミクNT
 - Fender Made in Japan Hybrid II Telecaster
 - Fender Player Plus Stratocaster
