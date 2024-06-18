@@ -2,6 +2,20 @@
 
 <span style="font-size: 12px;">こちらで掲示する情報は古い場合がありますので、各イベントのリンク先より最新の情報をご確認ください。</span>
 
+## 2024/08/29 (木) 秋葉原 MOGRA
+
+BAR39
+
+OPEN 18:00  
+CLOSE 23:00
+
+ENTRANCE  
+¥2,500 (1ドリンク別)  
+
+[https://club-mogra.jp/2024/08/29/5306/](https://club-mogra.jp/2024/08/29/5306/)
+
+---
+
 ## 2024/04/20 (土) 秋葉原 MOGRA
 
 NXFES vol.3
