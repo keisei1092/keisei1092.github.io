@@ -39,19 +39,21 @@ a:visited {
 @media (prefers-color-scheme: dark) {
   html,
   body {
-    color: #d1d2d3;
+    color: #DCDCDC;
     background-color: #171717;
     /* --c-focus: var(--c-dark-focus); */
     /* --c-interactive: var(--c-dark-interactive); */
   }
 
   a {
-    color: #000;
+    color: #DCDCDC;
     text-decoration: underline;
-    text-decoration-style: dotted;
+  }
+  a:hover {
+    color: #DCDCDC;
   }
   a:visited {
-    color: #71797E;
+    color: #DCDCDC;
   }
 
   h1,
@@ -60,7 +62,7 @@ a:visited {
   h4,
   h5,
   h6 {
-    color: #cccccc;
+    color: #F5F5F5;
   }
 
   /* img, video, body * [style*="background-image"] {
