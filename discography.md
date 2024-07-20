@@ -5,13 +5,31 @@
 
 ## album, ep
 
+### ミライトアルマチ雨読
+
+<img alt="ミライトアルマチ雨読" src="./images/discography/udoku.png" width="400" />
+
+<iframe width="400" height="225" src="https://www.youtube.com/embed/33Y_nOGxM3I?si=61n4rmiHSA8146SB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+イラスト OTOMICA [Twitter](https://twitter.com/otom1ca)
+
+1. ストローク
+2. その声は鏡のごとく
+3. ブライトシティ (udoku mix)
+4. cue
+5. ファンソング
+6. since 2007
+7. mhnmtbr
+8. スペクトル
+9. 16
+
 ### ミライトアルマチ空絵
 
 <img alt="ミライトアルマチ空絵" src="./images/discography/sorae.png" width="400" />
 
 <iframe class="bandcamp-player" src="https://bandcamp.com/EmbeddedPlayer/album=3409945041/size=large/bgcol=333333/linkcol=4ec5ec/tracklist=false/artwork=none/transparent=true/" seamless><a href="https://miraitoarumachi.bandcamp.com/album/mirai-to-aru-machi-sorae-reprise">Mirai To Aru Machi Sorae (Reprise) by keisei</a></iframe>
 
-イラスト OTOMIKA [Tumblr](https://otomikakei.tumblr.com)
+イラスト OTOMICA [Twitter](https://twitter.com/otom1ca)
 
 1. きみの後ろ姿を視ていた
 2. zenmaikatatenikimiwadokoe

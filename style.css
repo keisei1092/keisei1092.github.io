@@ -7,7 +7,8 @@ h5,
 h6,
 header,
 .title {
-  font-family: serif;
+  font-family: "Helvetica Neue", sans-serif;
+  font-weight: 400;
   -webkit-font-feature-setting: "palt";
 }
 
@@ -16,6 +17,22 @@ body {
   color: #444;
   line-height: 1.5rem;
   font-size: 15px;
+}
+
+h1:not(:first-child) {
+  padding-top: 16px;
+}
+
+a {
+  color: #71797E;
+  text-decoration: underline;
+}
+a:hover {
+  color: #71797E;
+  text-decoration: none;
+}
+a:visited {
+  color: #71797E;
 }
 
 /* ダークモードに関する設定 */
@@ -29,10 +46,12 @@ body {
   }
 
   a {
-    color: rgb(125, 187, 247);
+    color: #000;
+    text-decoration: underline;
+    text-decoration-style: dotted;
   }
   a:visited {
-    color: rgb(190, 125, 248);
+    color: #71797E;
   }
 
   h1,
@@ -65,7 +84,10 @@ body {
 .title {
   text-align: center;
   font-size: 1.2rem;
-  font-weight: normal;
+  font-weight: 300;
+}
+.title > a {
+  text-decoration: none;
 }
 
 .flag {
@@ -90,7 +112,7 @@ body {
 
 /* リンクをホバーした時などに太字にしない */
 a:visited, a:hover, a:focus, a:active {
-  font-weight: normal;
+  font-weight: unset;
 }
 
 .social-media-icon {

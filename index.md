@@ -1,9 +1,8 @@
 <p class="cover-image">
-  <img src="images/top.jpeg" alt="top" />
+  <img src="images/top.png" alt="top" />
 </p>
 
-2023/02/04 ミライトアルマチ空絵の再録版をリリースしました。
-CDは[BOOTH](https://miraitoarumachi.booth.pm/items/4527914) wav音源は [Bandcamp](https://miraitoarumachi.bandcamp.com/album/mirai-to-aru-machi-sorae-reprise) よりお求めいただけます。
+2024/07/20 新しいアルバム「ミライトアルマチ雨読」をリリースします。8月18日 (日) マジカルミライ2024 福岡会場 クリエイターズマーケットで初頒布します。詳しい情報は [クロスフェード動画](https://www.youtube.com/watch?v=33Y_nOGxM3I) の概要欄をご覧ください。
 
 # about
 

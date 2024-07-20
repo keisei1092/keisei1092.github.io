@@ -4,7 +4,7 @@
 
 ```sh
 npm install
-bundle install
+bundle install # use ruby 2.7.8
 ```
 
 ## check locally
