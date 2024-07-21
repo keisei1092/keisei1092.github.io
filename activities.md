@@ -39,24 +39,17 @@
 
 ## 2019
 
-* 東京電機大学東京千住キャンパス 旭祭 FRENZY.NET x VOCALOID同好会 DJ出演
-* 中央大学後楽園キャンパス 理工白門祭 ボーカロイド同好会ミクチェイン
-  * DJ、アコースティックライブ出演（フルート: keisei, アコースティックギター: 森羅）
 * マジカルミライ 2019
   * 楽曲コンテスト歴代グランプリ座談会 ゲスト出演
 * 高田夜サクラ ミクライブ！ZERO
   * 友情出演「Singularity」
 * 渋谷マルイ Megurine Luka 10th Anniversary Birthday Party DJ出演
-* 韓国・ソウル ボーカロイドオンリーイベント「VOCANARU2」DJ出演
 * HATSUNE MIKU FUTURE BASS COLLECTION 「ゆらぎ」
 
 ## 2018
 
-* 大阪市立大学学園祭 銀杏祭 ボカロ部Special Live DJ出演
 * マジカルミライ 2018
   * 企画展無料観覧DJ LIVEステージ「keisei feat. DIVELA」
-  * 公式ガイドブック インタビュー（楽曲コンテスト2017 x 2018グランプリ対談）
-  * 「マジカルミライ2018 Blu-ray & DVD」特典映像
 * This is NIPPON プレミアムシアター スペシャルライブ「初音ミク × 鼓童 2018」
   * ライブ開場中BGM「Hifumi」
 * ボクラノミライ2018 テーマソング「うららすてっぷ♪」
