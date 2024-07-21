@@ -50,14 +50,11 @@
 
 * マジカルミライ 2018
   * 企画展無料観覧DJ LIVEステージ「keisei feat. DIVELA」
-* This is NIPPON プレミアムシアター スペシャルライブ「初音ミク × 鼓童 2018」
-  * ライブ開場中BGM「Hifumi」
 * ボクラノミライ2018 テーマソング「うららすてっぷ♪」
 * 初音ミクVR「Singularity」
 * SNOW MIKU 2018
   * クリエイターステージ DJライブ
   * 「マジカルミライ2017 応援上映」トークショーゲスト
-  * 「SNOW MIKU LIVE! 2018」ライブ開場中BGM「Winter Sky Discovery」
 
 ## 2017
 
