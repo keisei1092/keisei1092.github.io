@@ -20,3 +20,9 @@ then open http://localhost:4000
 ```sh
 git push origin master
 ```
+
+## update libraries
+
+```sh
+bundle update
+```
