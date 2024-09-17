@@ -18,6 +18,7 @@
 - 初音ミクNT
 - Fender Made in Japan Hybrid II Telecaster
 - Fender Player Plus Stratocaster
+- Gibson Les Paul Standard '50s
 - YAMAHA BB434
 - YAMAHA P-45
 - RME Babyface Pro FS

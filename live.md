@@ -2,6 +2,16 @@
 
 <span style="font-size: 12px;">こちらで掲示する情報は古い場合がありますので、各イベントのリンク先より最新の情報をご確認ください。</span>
 
+## 2024/11/23 (土・祝) 埼玉・大宮 ヒソミネ
+
+ボカタマ vol.3
+
+OPEN 14:00  
+
+[https://twipla.jp/events/624698](https://twipla.jp/events/624698)
+
+---
+
 ## 2024/08/29 (木) 秋葉原 MOGRA
 
 BAR39
