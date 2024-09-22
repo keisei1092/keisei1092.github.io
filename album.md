@@ -14,6 +14,10 @@
 
 霞ヶ浦
 
+![明治神宮 清正井](album/meiji_shrine.jpg)
+
+明治神宮 清正井
+
 ![日本平](album/nihondaira.jpeg)
 
 日本平
@@ -22,9 +26,9 @@
 
 富士山本宮浅間大社 湧玉池
 
-![しずおか魚市場 直営店](album/shizuokauoichiba.jpg)
+![柿田川公園](album/kakitagawa.jpg)
 
-しずおか魚市場 直営店
+柿田川公園
 
 ![焼津富士山丼](album/yaizu.jpeg)
 
@@ -77,3 +81,7 @@
 ![寺町京極](album/teramachikyogoku.jpg)
 
 寺町京極
+
+![広島 平和記念公園](album/hiroshima.jpg)
+
+広島 平和記念公園
