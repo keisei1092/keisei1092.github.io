@@ -20,8 +20,8 @@ OPEN 12:40
 START 13:00
 
 ENTRANCE  
-通常入場 ¥3,100
-Twipla 参加表明・演者取り置き ¥500 OFF
+通常入場 ¥3,100  
+Twipla 参加表明・演者取り置き ¥500 OFF  
 遠征割引 ¥500 OFF
 
 [https://twipla.jp/events/637118](https://twipla.jp/events/637118)
