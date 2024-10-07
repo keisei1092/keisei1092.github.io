@@ -12,6 +12,22 @@ OPEN 14:00
 
 ---
 
+## 2024/11/17 (日) 大阪・日本橋 Bar Guild
+
+VOCALOID TIE UP 2nd Anniversary
+
+OPEN 12:40  
+START 13:00
+
+ENTRANCE  
+通常入場 ¥3,100
+Twipla 参加表明・演者取り置き ¥500 OFF
+遠征割引 ¥500 OFF
+
+[https://twipla.jp/events/637118](https://twipla.jp/events/637118)
+
+---
+
 ## 2024/08/29 (木) 秋葉原 MOGRA
 
 BAR39
