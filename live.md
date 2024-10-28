@@ -10,6 +10,19 @@ OPEN 13:00
 CLOSE 20:00
 
 ---
+
+## 2024/11/30 (土) 秋葉原 mogra
+
+NXFES vol.4
+
+OPEN 14:00  
+START 14:20  
+CLOSE 21:00
+
+[https://t.livepocket.jp/e/nxfes1130](https://t.livepocket.jp/e/nxfes1130)
+
+---
+
 ## 2024/11/23 (土・祝) 埼玉・大宮 ヒソミネ
 
 ボカタマ vol.3
