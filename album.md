@@ -70,6 +70,10 @@
 
 弘前さくらまつり
 
+![醒井宿 地蔵川](album/samegai.jpg)
+
+醒井宿 地蔵川
+
 ![上賀茂神社 細殿、立砂](album/kamigamoshrine.jpg)
 
 上賀茂神社 細殿、立砂
