@@ -25,12 +25,10 @@
 <span class="top-link">[AKIBA-HOBBY](https://ec.akbh.jp/products/list.php?maker_id=102)</span><br />
 <span class="top-link">[BOOTH](https://miraitoarumachi.booth.pm)</span>
 
-## fan
-
-<span class="top-link">[pixivFANBOX](https://www.pixiv.net/fanbox/creator/604687)</span>
 
 # note
 
+<span class="top-link">[pixivFANBOX](https://www.pixiv.net/fanbox/creator/604687)</span>
 <span class="top-link">[notes](/notes)</span><br />
 <span class="top-link">[album](/album)</span><br />
 <span class="top-link">[files](/files)</span><br />
