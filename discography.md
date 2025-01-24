@@ -9,7 +9,7 @@
 
 <img alt="ミライトアルマチ雨読" src="./images/discography/udoku.png" width="400" />
 
-<iframe width="320" height="180" src="https://www.youtube.com/embed/33Y_nOGxM3I?si=61n4rmiHSA8146SB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="400" style="width:100%;max-width:400px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/jp/album/mirai-to-aru-machi-udoku-feat-hatsune-miku-%E9%8F%A1%E9%9F%B3%E3%83%AA%E3%83%B3-%E9%8F%A1%E9%9F%B3%E3%83%AC%E3%83%B3-%E8%8A%B1%E9%9A%88%E5%8D%83%E5%86%AC/1789262562"></iframe>
 
 イラスト OTOMICA [Twitter](https://twitter.com/otom1ca)
 
