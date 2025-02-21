@@ -1,4 +1,4 @@
-# Activities
+# activities
 
 <span style="font-size: 12px;">アーティスト名、人名は敬称略とさせて頂きます。</span>
 

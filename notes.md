@@ -1,5 +1,6 @@
 # notes
 
+- [lyrics](/lyrics)
 - [愛機の部屋](/equipments)
 
 ### イベントレポート (pixivFANBOX)
