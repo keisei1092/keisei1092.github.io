@@ -35,6 +35,29 @@ a:visited {
   color: #71797E;
 }
 
+/* 歌詞 */
+.lyrics > p {
+  font-family: "ToppanBunkyuMinchoPr6N-Regular", serif;
+  font-size: 14px;
+  letter-spacing: 0.1em;
+}
+@media (prefers-color-scheme: light) {
+  .lyrics > p {
+    color: #444;
+  }
+}
+.lyrics > h1 {
+  font-family: "ToppanBunkyuMinchoPr6N-Regular", serif;
+  letter-spacing: 0.1em;
+}
+.lyrics > h2 {
+  font-family: "ToppanBunkyuMinchoPr6N-Regular", serif;
+  letter-spacing: 0.1em;
+}
+.lyrics > hr {
+  opacity: 0;
+}
+
 /* ダークモードに関する設定 */
 @media (prefers-color-scheme: dark) {
   html,
@@ -152,3 +175,4 @@ a:visited, a:hover, a:focus, a:active {
     width: 100%;
   }
 }
+

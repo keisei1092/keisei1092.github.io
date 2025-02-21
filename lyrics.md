@@ -1,4 +1,8 @@
+{::options parse_block_html="true" /}
+<div class="lyrics">
+
 # lyrics
+{: style="margin-bottom: 24px;"}
 
 ## 16
 
@@ -332,4 +336,7 @@ fly far fly far away おそれずに
 僕の居ぬ世界で 僕を待ち続けてる  
 青い光失せて 柔く終わる感情  
 君の最後の言葉 「ムゲンノマチ」
+
+</div>
+{::options parse_block_html="false" /}
 
