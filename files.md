@@ -13,9 +13,12 @@ Logic Proで制作した楽曲のプロジェクトファイルを主にpixivFAN
 ## ステムファイル
 
 ステムファイルです。 
-参考にして頂いたりリミックスなどにお使いください。 
-二次配布、レンダリングして配布することはご遠慮ください。
+一部ファイルはpixivfanboxのご支援者にのみ公開しています。 
 
+参考にして頂いたりリミックスなどにお使いください。 
+二次配布や元楽曲に関係ないご利用はご遠慮ください。
+
+- [brooklet のステムファイル](https://miraitoarumachi.fanbox.cc/posts/9687416)
 - [ブライトシティ のステムファイル](https://miraitoarumachi.fanbox.cc/posts/7085523)
 - [16 のステムファイル](https://miraitoarumachi.fanbox.cc/posts/6768841)
 - [mic test のステムファイル](https://miraitoarumachi.fanbox.cc/posts/681474)
