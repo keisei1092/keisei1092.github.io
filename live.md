@@ -2,6 +2,17 @@
 
 <span style="font-size: 12px;">こちらで掲示する情報は古い場合がありますので、各イベントのリンク先より最新の情報をご確認ください。</span>
 
+## 2025/06/22 (日) 渋谷 nagomix
+
+39noPops vol.17
+
+OPEN 13:00  
+CLOSE 20:00
+
+[https://twvt.me/39nopops_vol17](https://twvt.me/39nopops_vol17)
+
+---
+
 ## 2024/12/21 (土) 渋谷 nagomix
 
 39noPops vol.16
