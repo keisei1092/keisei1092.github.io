@@ -86,6 +86,14 @@
 
 寺町京極
 
+![橿原神宮 外拝殿](album/kashiharajingu.jpeg)
+
+橿原神宮 外拝殿
+
 ![広島 平和記念公園](album/hiroshima.jpg)
 
 広島 平和記念公園
+
+![道後温泉本館](album/dogo.jpeg)
+
+道後温泉本館
