@@ -7,8 +7,8 @@
 
 key: E
 
-Esus2/A Esus2/B Esus2/C# Esus2/F#  
-Esus2/A Esus2/B Esus2/C# Esus2/D
+Esus2/A B Esus2/C# Esus2/F#  
+Esus2/A B Esus2/C# Esus2/D
 
 以降くりかえし
 
@@ -20,16 +20,16 @@ key: D
 Dsus2/G Dsus2/B
 
 (Bメロ)  
-Dsus2/G Dsus2 Dsus2/A Dsus2/B  
-Dsus2/G Dsus2 Dsus2/A  
-Dsus2/G Dsus2 Dsus2/A Dsus2/B  
-Dsus2/G Dsus2 Dsus2/A Dsus2/B
+Dsus2/G Dsus2 A Dsus2/B  
+Dsus2/G Dsus2 A  
+Dsus2/G Dsus2 A Dsus2/B  
+Dsus2/G Dsus2 A Dsus2/B
 
 (サビ)  
-Dsus2/G Dsus2 Dsus2/A Dsus2/B  
-Dsus2/G Dsus2 Dsus2/A  
-Dsus2/G Dsus2 Dsus2/A Dsus2/B  
-Dsus2/G Dsus2 Dsus2/A Dsus2/B
+Dsus2/G Dsus2 A Dsus2/B  
+Dsus2/G Dsus2 A  
+Dsus2/G Dsus2 A Dsus2/B  
+Dsus2/G Dsus2 A Dsus2/B
 
 以降Aメロ、Bメロ、サビくりかえし
 
