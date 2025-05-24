@@ -103,13 +103,13 @@ Asus2/G Asus2/F Asus2/G Asus2
 
 key: D (動画サイト投稿時は Eb)
 
-(イントロ)
+(イントロ)  
 Dsus2/G D A Dsus2/B  
 Dsus2/G D A Bbm7-5 Dsus2/B Dsus2/C  
 Dsus2/G D A Dsus2/B  
 Gm Am7 D Dsus2/C D
 
-(Aメロ)
+(Aメロ)  
 D Dsus2/C Dsus2/B Dsus2/G  
 D Dsus2/C Dsus2/B Gm A
 
