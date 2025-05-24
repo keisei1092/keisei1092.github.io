@@ -43,7 +43,7 @@ Esus2/A Esus2/G# Esus2/C#m B
 (Bメロ)  
 Esus2/A Esus2/G# Esus2/C#m B
 
-(サビ)
+(サビ)  
 Esus2/A Esus2/G# Esus2/C#m B
 
 Aメロ、Bメロ、サビくりかえし
@@ -92,10 +92,10 @@ Asus2/B Asus2/C# Asus2/C Asus2/D E
 
 key: A (動画サイト投稿時は B)
 
-(基本)
+(基本)  
 Asus2/D Asus2/C# Asus2/B Asus2/F#m
 
-(Bメロ)
+(Bメロ)  
 Asus2/G Asus2/F#m Asus2/F E  
 Asus2/G Asus2/F Asus2/G Asus2
 
@@ -104,16 +104,16 @@ Asus2/G Asus2/F Asus2/G Asus2
 key: D (動画サイト投稿時は Eb)
 
 (イントロ)
-Dsus2/G D A Dsus2/B
-Dsus2/G D A Bbm7-5 Dsus2/B Dsus2/C
-Dsus2/G D A Dsus2/B
+Dsus2/G D A Dsus2/B  
+Dsus2/G D A Bbm7-5 Dsus2/B Dsus2/C  
+Dsus2/G D A Dsus2/B  
 Gm Am7 D Dsus2/C D
 
 (Aメロ)
 D Dsus2/C Dsus2/B Dsus2/G  
 D Dsus2/C Dsus2/B Gm A
 
-(Bメロ)
+(Bメロ)  
 Dsus2/F#m Dsus2/B Dsus2/C Dsus2/G  
 Dsus2/F#m Dsus2/B Dsus2/C  
 Dsus2/E Dsus2/F#m Dsus2/G A  
@@ -129,13 +129,13 @@ Dsus2/Bb Dsus2/C D
 
 Aメロ、Bメロ、サビくりかえし
 
-(ラスサビ)
+(ラスサビ)  
 Dsus2/G D A Dsus2/B  
 Dsus2/G D A Bbm7-5 Dsus2/B Dsus2/C  
 Dsus2/G D A Dsus2/B  
 Gm Am7 Gm Am7 Bb C D
 
-(アウトロ)
+(アウトロ)  
 Dsus2/G D A Dsus2/B  
 Gm Am7
 
@@ -143,14 +143,14 @@ Gm Am7
 
 key: E → D
 
-Esus2/A Esus2/B Esus2/C# Esus2/G#
-Esus2/A Esus2/B Esus2/C# Esus2/G#
-Esus2/A Esus2/B Esus2/C# Esus2/G#
+Esus2/A Esus2/B Esus2/C# Esus2/G#  
+Esus2/A Esus2/B Esus2/C# Esus2/G#  
+Esus2/A Esus2/B Esus2/C# Esus2/G#  
 Esus2/A Esus2/B Esus2/C# Esus2/E
 
 以降くりかえし
 
-(2番Aメロとアウトロの最初だけ)
+(2番Aメロとアウトロの最初だけ)  
 D6sus2/G D6sus2/A Dsus2/B Dsus2/F#
 
 ## ステートマシン
@@ -158,6 +158,6 @@ D6sus2/G D6sus2/A Dsus2/B Dsus2/F#
 key: Bb → Ab
 
 Bbsus2/Eb Bbsus2/F Bbsus2 Bbsus2/D  
-Bbsus2/Eb Bbsus2/F Bbsus2/G Bbsus2/D
-Bbsus2/Eb Bbsus2/F Bbsus2 Bbsus2/D
+Bbsus2/Eb Bbsus2/F Bbsus2/G Bbsus2/D  
+Bbsus2/Eb Bbsus2/F Bbsus2 Bbsus2/D  
 Bbsus2/Eb Bbsus2/F Bbsus2/G Bbsus2
