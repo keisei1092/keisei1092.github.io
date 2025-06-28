@@ -176,3 +176,9 @@ a:visited, a:hover, a:focus, a:active {
   }
 }
 
+/* 外部リンクマーク */
+.external-link {
+  width: 16px;
+  height: 16px;
+  vertical-align: text-bottom;
+}
