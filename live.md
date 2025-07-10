@@ -10,6 +10,12 @@ OPEN 12:00
 START 12:30  
 CLOSE 19:40
 
+Door  
+¥3,600 (1ドリンク込)  
+¥3,100 (Twipla参加表明, 1ドリンク込)  
+¥2,600 (学生※, 1ドリンク込)  
+※ 高校生以下
+
 [https://twipla.jp/events/685771](https://twipla.jp/events/685771)
 
 ---
