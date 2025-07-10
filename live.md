@@ -2,6 +2,18 @@
 
 <span style="font-size: 12px;">こちらで掲示する情報は古い場合がありますので、各イベントのリンク先より最新の情報をご確認ください。</span>
 
+## 2025/08/24 (日) 大阪・なんば MILURALI
+
+VOCALOiD LiMiT vol.30
+
+OPEN 12:00  
+START 12:30  
+CLOSE 19:40
+
+[https://twipla.jp/events/685771](https://twipla.jp/events/685771)
+
+---
+
 ## 2025/06/22 (日) 渋谷 nagomix
 
 39noPops vol.17
