@@ -2,6 +2,21 @@
 
 <span style="font-size: 12px;">こちらで掲示する情報は古い場合がありますので、各イベントのリンク先より最新の情報をご確認ください。</span>
 
+## 2025/09/27 (土) 長野・松本 STUDIO SONIC
+
+X-Fade vol.3
+
+START 13:00  
+CLOSE 20:00
+
+Entrance  
+¥3,500 (1ドリンク込)  
+¥3,000 (Twipla参加表明, 1ドリンク込)  
+
+[https://twipla.jp/events/683703](https://twipla.jp/events/683703)
+
+---
+
 ## 2025/08/24 (日) 大阪・なんば MILURALI
 
 VOCALOiD LiMiT vol.30
