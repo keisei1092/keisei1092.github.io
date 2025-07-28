@@ -2,7 +2,7 @@
   <img src="images/top.png" alt="top" />
 </p>
 
-2024/07/20 新しいアルバム「ミライトアルマチ雨読」をリリースします。8月18日 (日) マジカルミライ2024 福岡会場 クリエイターズマーケットで初頒布します。詳しい情報は [クロスフェード動画](https://www.youtube.com/watch?v=33Y_nOGxM3I) の概要欄をご覧ください。
+2025/07/29 新曲「aobadori」と「brooklet」、aobadoriのインストを収録したCDを頒布します。8月3日 (日) マジカルミライ2025 仙台会場 クリエイターズマーケットで初頒布します。詳しい情報は [クロスフェード動画](https://www.youtube.com/watch?v=6wdBPaGMnWo) の概要欄をご覧ください。
 
 # about
 
