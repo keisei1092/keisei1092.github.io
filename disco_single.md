@@ -5,6 +5,14 @@
 
 ## single
 
+### aobadori
+
+<img alt="aobadori" src="./images/discography/aobadori.png" width="400" />
+
+1. aobadori
+2. brooklet
+3. aobadori (Instrumental)
+
 ### 16
 
 <img alt="16" src="./images/discography/16.jpg" width="400" />

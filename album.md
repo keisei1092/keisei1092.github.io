@@ -14,6 +14,10 @@
 
 霞ヶ浦
 
+![松島展望台 白衣観音](album/matsushima.jpeg)
+
+松島展望台 白衣観音
+
 ![明治神宮 清正井](album/meiji_shrine.jpg)
 
 明治神宮 清正井
@@ -65,10 +69,6 @@
 ![寝覚の床](album/nezamenotoko.jpg)
 
 寝覚の床
-
-![弘前さくらまつり](album/hirosakisakurafest.jpeg)
-
-弘前さくらまつり
 
 ![醒井宿 地蔵川](album/samegai.jpg)
 
