@@ -62,6 +62,10 @@
 
 源智の井戸
 
+![上高地](album/kamikochi.jpg)
+
+上高地
+
 ![奈良井宿](album/naraijuku.jpg)
 
 奈良井宿
