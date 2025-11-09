@@ -38,14 +38,13 @@
 ## store
 
 <span class="top-link">
-  [AKIBA-HOBBY](https://ec.akbh.jp/products/list.php?maker_id=102)
+  [BOOTH](https://miraitoarumachi.booth.pm)
   <img class="external-link" src="images/external_link.svg" />
 </span><br />
 <span class="top-link">
-  [BOOTH](https://miraitoarumachi.booth.pm)
+  [AKIBA-HOBBY](https://ec.akbh.jp/products/list.php?maker_id=102)
   <img class="external-link" src="images/external_link.svg" />
 </span>
-
 
 # note
 
