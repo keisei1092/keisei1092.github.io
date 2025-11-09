@@ -15,7 +15,7 @@
 # links
 
 <span class="top-link">
-  [ニコニコ動画](http://www.nicovideo.jp/mylist/10180194)
+  [ニコニコ動画](https://www.nicovideo.jp/user/2044734/video)
   <img class="external-link" src="images/external_link.svg" />
 </span><br />
 <span class="top-link">
@@ -51,6 +51,10 @@
 
 <span class="top-link">
   [pixivFANBOX](https://miraitoarumachi.fanbox.cc/posts)
+  <img class="external-link" src="images/external_link.svg" />
+</span><br />
+<span class="top-link">
+  [しずかなインターネット](https://sizu.me/keisei_1092)
   <img class="external-link" src="images/external_link.svg" />
 </span><br />
 <span class="top-link">[notes](/notes)</span><br />
