@@ -59,6 +59,8 @@ Asus2/D Asus2/C# Asus2/B Asus2
 アウトロ  
 ★ をくりかえし
 
+---
+
 ## brooklet
 
 key: E
@@ -67,6 +69,8 @@ Esus2/A B Esus2/C# Esus2/F#
 Esus2/A B Esus2/C# Esus2/D
 
 以降くりかえし
+
+---
 
 ## エアリー
 
@@ -88,6 +92,8 @@ Dsus2/G Dsus2 A Dsus2/B
 Dsus2/G Dsus2 A Dsus2/B
 
 以降Aメロ、Bメロ、サビくりかえし
+
+---
 
 ## 16
 
@@ -111,6 +117,8 @@ Esus2 Esus2/D Esus2/C#m Esus2/A
 Esus2 Esus2/D Esus2/C#m Esus2/F#m
 
 Bメロ、サビくりかえし
+
+---
 
 ## mhnmtbr
 
@@ -144,6 +152,8 @@ Asus2/B Asus2/C# Asus2/C Asus2/D E
 
 サビ、イントロくりかえし
 
+---
+
 ## スペクトル
 
 key: A (動画サイト投稿時は B)
@@ -154,6 +164,8 @@ Asus2/D Asus2/C# Asus2/B Asus2/F#m
 (Bメロ)  
 Asus2/G Asus2/F#m Asus2/F E  
 Asus2/G Asus2/F Asus2/G Asus2
+
+---
 
 ## ストローク
 
@@ -195,6 +207,8 @@ Gm Am7 Gm Am7 Bb C D
 Dsus2/G D A Dsus2/B  
 Gm Am7
 
+---
+
 ## zenmaikatatenikimiwadokoe
 
 key: E → D
@@ -208,6 +222,8 @@ Esus2/A Esus2/B Esus2/C# Esus2/E
 
 (2番Aメロとアウトロの最初だけ)  
 D6sus2/G D6sus2/A Dsus2/B Dsus2/F#
+
+---
 
 ## ステートマシン
 
