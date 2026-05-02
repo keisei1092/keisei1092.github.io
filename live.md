@@ -2,6 +2,17 @@
 
 <span style="font-size: 12px;">こちらで掲示する情報は古い場合がありますので、各イベントのリンク先より最新の情報をご確認ください。</span>
 
+## 2026/06/28 (日) タイ・バンコク スアンドゥシット大学
+
+VocaUnity 2026
+
+Entrance  
+฿1,000.00
+
+[https://www.eventpop.me/e/143037/vocaunity2026](https://www.eventpop.me/e/143037/vocaunity2026)
+
+---
+
 ## 2025/09/27 (土) 長野・松本 STUDIO SONIC
 
 X-Fade vol.3
