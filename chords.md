@@ -3,6 +3,62 @@
 <span style="font-size: 12px;">見やすさの都合で、同じコード進行を繰り返す場合には2回目以降の記載を省略することがあります。  
 繰り返しの最後だけ無音（ノーコード）になる場合も省略することがあります。適宜読み替えてください。</span>
 
+## singlecoil
+
+key: A
+
+イントロ（★）  
+Asus2/D Asus2/C# E Asus2  
+Asus2/D Asus2/C# E  
+Asus2/D Asus2/C# Asus2/B Asus2/F#  
+Asus2/D Asus2/C# E Asus2
+
+1番Aメロ 
+Asus2 Asus2/B Asus2/D Asus2  
+Asus2 Asus2/B Asus2/D E Asus2  
+Gsus2 Gsus2/A Gsus2/C D Gsus2  
+Gsus2 Gsus2/A Gsus2/C D Gsus2
+
+1番Bメロ  
+Gsus2/C Gsus2/B Gsus2/A Gsus2/E  
+Gsus2/C Gsus2/B Gsus2/A Gsus2/E  
+Asus2/D Asus2/C# Asus2/B Asus2/F# A7  
+Esus4 E
+
+1番サビ  
+Asus2/D Asus2/C# E Asus2  
+Asus2/D Asus2/C# E  
+Asus2/D Asus2/C# Asus2/B Asus2/F#  
+A7 Asus2/B
+
+★ をくりかえし
+
+1番間奏: ★ をくりかえし
+
+2番Aメロ  
+Asus2 Asus2/B Asus2/D Asus2  
+Asus2 Asus2/B Asus2/D E Asus2  
+Asus2 Asus2/B Asus2/D E Asus2  
+Asus2 Asus2/B Asus2/D E Asus2
+
+2番Bメロ  
+Asus2/D Asus2/C# Asus2/B Asus2/F#  
+Asus2/D Asus2/C# Asus2/B Asus2/F#  
+Asus2/B Asus2/C# Asus2/D Ebdim E
+
+2番サビ  
+Asus2/D Asus2/C# Asus2/B Asus2/F#  
+Asus2/D Asus2/C# Asus2/B Asus2/F#  
+Asus2/D Asus2/C# Asus2/B Asus2/F#  
+Asus2/D Asus2/C# Asus2/B Asus2  
+
+★ をくりかえし
+
+★ をくりかえし
+
+アウトロ  
+★ をくりかえし
+
 ## brooklet
 
 key: E
