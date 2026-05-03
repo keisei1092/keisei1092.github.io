@@ -52,4 +52,4 @@ const isHoliday = () => {
   return holidays.some(holiday => holiday.month === today.getMonth() && holiday.date === today.getDate());
 };
 
-if (isHoliday()) addFlagToTitle();
+// if (isHoliday()) addFlagToTitle();
