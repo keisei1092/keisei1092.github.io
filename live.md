@@ -13,6 +13,17 @@ Entrance
 
 ---
 
+## 2026/05/23 (土) VRChat
+
+アオボカ 3時間目
+
+OPEN 21:00  
+CLOSE 24:00
+
+[https://vrc.group/AOVOCA.6925](https://vrc.group/AOVOCA.6925)
+
+---
+
 ## 2025/09/27 (土) 長野・松本 STUDIO SONIC
 
 X-Fade vol.3
