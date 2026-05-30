@@ -8,6 +8,8 @@
 
 <span class="top-link">[biography](/biography)</span><br />
 <span class="top-link">[activities](/activities)</span><br />
+<!-- 準備ができたら公開 -->
+<!-- <span class="top-link">[songs](/songs)</span><br /> -->
 <span class="top-link">[discography](/discography)</span><br />
 <span class="top-link">[live](/live)</span><br />
 <span class="top-link">[楽曲利用のきまり (usage policy)](/usage_policy)</span>

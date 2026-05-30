@@ -182,3 +182,11 @@ a:visited, a:hover, a:focus, a:active {
   height: 16px;
   vertical-align: text-bottom;
 }
+
+/* YouTube埋め込み 16:9でwidth: 100%; height auto */
+.youtube-embed {
+  position: relative;
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  margin-bottom: 16px;
+}
