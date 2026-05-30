@@ -14,6 +14,10 @@
 
 霞ヶ浦
 
+![函館山から夜の函館市街](album/hakodateyama.jpg)
+
+函館山から夜の函館市街
+
 ![松島展望台 白衣観音](album/matsushima.jpeg)
 
 松島展望台 白衣観音
