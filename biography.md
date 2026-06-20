@@ -22,7 +22,8 @@
 - YAMAHA BB434
 - YAMAHA P-45
 - RME Babyface Pro FS
-- オーディオテクニカ ATH-R70x
+- オーディオテクニカ ATH-R70xa
 - GENELEC G One
 - オーディオテクニカ AT2020
-- Pioneer DDJ-800
+- Pioneer OMNIS-DUO
+
