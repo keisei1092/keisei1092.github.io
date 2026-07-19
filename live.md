@@ -16,6 +16,8 @@ Entrance (1ドリンク代込)
 
 [https://twipla.jp/events/736218](https://twipla.jp/events/736218)
 
+---
+
 ## 2026/08/08 (土) 渋谷 R-Lounge 7F
 
 VOCALOID FREAK Vol.162
@@ -27,6 +29,8 @@ Entrance
 ¥3,000 (1ドリンク付き)
 
 [https://twipla.jp/events/735753](https://twipla.jp/events/735753)
+
+---
 
 ## 2026/06/28 (日) タイ・バンコク スアンドゥシット大学
 
