@@ -25,5 +25,5 @@
 - オーディオテクニカ ATH-R70xa
 - GENELEC G One
 - オーディオテクニカ AT2020
-- Pioneer OMNIS-DUO
+- AlphaTheta OMNIS-DUO
 

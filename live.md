@@ -1,6 +1,32 @@
 # live
 
-<span style="font-size: 12px;">こちらで掲示する情報は古い場合がありますので、各イベントのリンク先より最新の情報をご確認ください。</span>
+<span style="font-size: 12px;">こちらに記載している情報は古い場合がありますので、各イベントのリンク先より最新の情報をご確認ください。</span>
+
+## 2026/08/15 (土) なんば MILULARI Legacy & Delight
+
+Connect to MiRAi 2026
+
+OPEN 22:30  
+START 23:00  
+CLOSE 05:00
+
+Entrance (1ドリンク代込)  
+当日料金 ¥4,100  
+参加表明 ¥3,600
+
+[https://twipla.jp/events/736218](https://twipla.jp/events/736218)
+
+## 2026/08/08 (土) 渋谷 R-Lounge 7F
+
+VOCALOID FREAK Vol.162
+
+OPEN 22:30  
+CLOSE 05:00
+
+Entrance  
+¥3,000 (1ドリンク付き)
+
+[https://twipla.jp/events/735753](https://twipla.jp/events/735753)
 
 ## 2026/06/28 (日) タイ・バンコク スアンドゥシット大学
 
