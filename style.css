@@ -155,6 +155,13 @@ a:visited, a:hover, a:focus, a:active {
   text-align: center;
 }
 
+/* トップページのカバー画像のクレジット */
+.top-cover-image-credit {
+  display: block;
+  text-align: right;
+  font-size: 11px;
+}
+
 /* トップページのリンクのスタイル */
 .top-link {
   letter-spacing: 0.5px; /* わずかなゆとり */

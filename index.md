@@ -1,8 +1,8 @@
 <p class="cover-image">
   <img src="images/top.png" alt="top" />
+  <br />
+  <span class="top-cover-image-credit">Illustrated by OTOMICA</span>
 </p>
-
-2025/07/29 新曲「aobadori」と「brooklet」、aobadoriのインストを収録したCDを頒布します。8月3日 (日) マジカルミライ2025 仙台会場 クリエイターズマーケットで初頒布します。詳しい情報は [クロスフェード動画](https://www.youtube.com/watch?v=6wdBPaGMnWo) の概要欄をご覧ください。
 
 # about
 
