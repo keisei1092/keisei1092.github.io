@@ -2,7 +2,7 @@
 
 <iframe class="youtube-embed" src="https://www.youtube.com/embed/mSOceFZqLsU?si=y_5LZKLMPIe994TV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-イラスト アイラ [Twitter](https://x.com/clplanet370)
+イラスト アイラ 様 [Twitter](https://x.com/clplanet370)
 
 ## Lyrics
 

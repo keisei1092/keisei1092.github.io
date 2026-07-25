@@ -2,7 +2,7 @@
 
 <iframe class="youtube-embed" src="https://www.youtube.com/embed/N9ohe-pBAlE?si=ZuYHxjWMxFkTSrom" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-イラスト 夏帆 [Twitter](https://x.com/01_nanimono)
+イラスト 夏帆 様 [Twitter](https://x.com/01_nanimono)
 
 ## Lyrics
 
