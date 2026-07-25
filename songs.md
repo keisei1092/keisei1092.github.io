@@ -1,3 +1,5 @@
 ## Songs
 
-[Singularity](./songs_singularity)
+- [singlecoil](./songs_singlecoil)
+- [aobadori](./songs_aobadori)
+- [Singularity](./songs_singularity)
