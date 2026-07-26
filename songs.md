@@ -14,6 +14,7 @@
 - [スペクトル](./songs_spectrum)
 - [ファンソング](./songs_fansong)
 - [ストローク](./songs_stroke)
+- [その声は鏡のごとく](./songs_kagami)
 - [ステートマシン](./songs_statemachine)
 - [Singularity](./songs_singularity)
 
