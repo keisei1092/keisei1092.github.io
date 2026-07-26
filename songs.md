@@ -12,6 +12,8 @@
 - [16](./songs_16)
 - [cue](./songs_cue)
 - [スペクトル](./songs_spectrum)
+- [ファンソング](./songs_fansong)
+- [ストローク](./songs_stroke)
 - [ステートマシン](./songs_statemachine)
 - [Singularity](./songs_singularity)
 
