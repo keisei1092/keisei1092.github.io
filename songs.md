@@ -10,6 +10,7 @@
 - [sentimental bird flapping](./songs_sentimental)
 - [windswept](./songs_windswept)
 - [16](./songs_16)
+- [cue](./songs_cue)
 - [ステートマシン](./songs_statemachine)
 - [Singularity](./songs_singularity)
 
