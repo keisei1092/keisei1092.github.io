@@ -11,6 +11,7 @@
 - [windswept](./songs_windswept)
 - [16](./songs_16)
 - [cue](./songs_cue)
+- [スペクトル](./songs_spectrum)
 - [ステートマシン](./songs_statemachine)
 - [Singularity](./songs_singularity)
 
