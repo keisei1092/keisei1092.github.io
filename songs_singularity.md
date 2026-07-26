@@ -2,7 +2,7 @@
 
 <iframe class="youtube-embed" src="https://www.youtube.com/embed/Blc2HbNaUsg?si=VdodAJ9BZ029lZjw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-イラスト rsk
+イラスト rsk 様
 
 ## Lyrics
 
