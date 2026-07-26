@@ -15,6 +15,7 @@
 - [ファンソング](./songs_fansong)
 - [ストローク](./songs_stroke)
 - [その声は鏡のごとく](./songs_kagami)
+- [mhnmtbr](./songs_mhnmtbr)
 - [ステートマシン](./songs_statemachine)
 - [Singularity](./songs_singularity)
 
