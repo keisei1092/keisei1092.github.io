@@ -16,8 +16,10 @@
 - [ストローク](./songs_stroke)
 - [その声は鏡のごとく](./songs_kagami)
 - [mhnmtbr](./songs_mhnmtbr)
+- [since 2007](./songs_since2007)
 - [ステートマシン](./songs_statemachine)
 - [Singularity](./songs_singularity)
+- [ブライトシティ](./songs_brightcity)
 
 ### Cover
 
