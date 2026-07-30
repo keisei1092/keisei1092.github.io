@@ -32,3 +32,53 @@ our wishes come true
 通りの先の丘 夜空いっぱいの天の河  
 見つけた二つ星の間指で結んだよ  
 離れないように
+
+## Chords
+
+key: E → D
+
+（イントロ）  
+☆  
+Esus2 Esus2/A B Esus2/C#  
+Esus2 Esus2/A B Esus2/C#  
+Esus2 Esus2/A B Esus2/C#  
+Esus2/F# Esus2/A B Esus2/C#
+
+（Aメロ）  
+☆ をくりかえし
+
+（サビ）  
+Esus2 Esus2/A B Esus2/C#  
+Esus2 Esus2/A B Esus2/C#  
+Esus2 Esus2/A B Esus2/C#  
+Esus2/F# Esus2/A B Esus2/C#  
+Esus2/D
+
+（間奏）  
+※  
+Dsus2 Dsus2/G A Dsus2/B  
+Dsus2 Dsus2/G A Dsus2/B  
+Dsus2 Dsus2/G A Dsus2/B  
+Dsus2/E Dsus2/G A Dsus2/B
+
+（Aメロ）  
+※ をくりかえし
+
+（間奏、Bメロ）  
+Dsus2/G Dsus2/F# Dsus2/B A  
+Dsus2/G Dsus2/F# Dsus2/B  
+Dsus2/E B D
+
+（間奏）  
+※ をくりかえし
+
+（サビ）  
+Dsus2 Dsus2/G A Dsus2/B  
+Dsus2 Dsus2/G A Dsus2/B  
+Dsus2 Dsus2/G A Dsus2/B  
+Dsus2/E Dsus2/G A Dsus2/B  
+Dsus2/C
+
+（アウトロ）  
+※ をくりかえし
+
