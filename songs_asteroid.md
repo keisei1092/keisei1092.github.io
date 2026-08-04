@@ -35,3 +35,30 @@
 
 並ぶ 眠る 飾る 主語を拾い集めて  
 空を舞う 星々 いつかのアステロイド 秋の風
+
+## Chords
+
+key: D
+
+イントロ  
+Dsus2/G Dsus2/B  
+Dsus2/G Dsus2/B Dsus2/F#
+
+Aメロ  
+Dsus2/G Dsus2/B  
+Dsus2/G Dsus2/B Dsus2/F#  
+Dsus2/G Dsus2/B  
+Dsus2/G Dsus2/B Dsus2/F#  
+
+Bメロ  
+Dsus2/C# D7 Dsus2/A# A  
+Dsus2/C# D7 Dsus2/G A  
+Dsus2/C# D7 Dsus2/A# A  
+Dsus2/C# D7 Dsus2/G A  
+
+サビ  
+D Dsus2/G Dsus2/B Dsus2/G Gm Am  
+D Dsus2/G A D
+
+間奏  
+イントロ をくりかえし
