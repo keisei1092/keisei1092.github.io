@@ -4,8 +4,6 @@
   <span class="top-cover-image-credit">Illustrated by OTOMICA</span>
 </p>
 
-# about
-
 <span class="top-link">[biography](/biography)</span><br />
 <span class="top-link">[activities](/activities)</span><br />
 <span class="top-link">[songs](/songs)</span><br />
