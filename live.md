@@ -2,6 +2,22 @@
 
 <span style="font-size: 12px;">こちらに記載している情報は古い場合がありますので、各イベントのリンク先より最新の情報をご確認ください。</span>
 
+## 2026/11/14 (土) 山梨・笛吹 笛吹みんなの広場
+
+Vocaloid Assortment Vol.3
+
+START 11:00  
+CLOSE 17:00
+
+入場料  
+通常 ¥3,000  
+学割 ¥1,000  
+高校生以下無料
+
+[https://twipla.jp/events/731161](https://twipla.jp/events/731161)
+
+---
+
 ## 2026/08/15 (土) なんば MILULARI Legacy & Delight
 
 Connect to MiRAi 2026
