@@ -33,3 +33,19 @@ flap flap flap flap luv
 天使の羽音 ゆれるネビュラ
 
 flap flap flap flap luv
+
+## Chords
+
+key: A
+
+イントロ  
+Asus2/C# Asus2/D E Asus2/B
+
+Aメロ  
+Asus2/C# Asus2/D E Asus2/B
+
+Bメロ  
+Asus2/C Asus2/D Esus4 E
+
+サビ  
+Asus2/C# Asus2/D E Asus2/B
