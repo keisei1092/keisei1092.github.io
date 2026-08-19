@@ -41,7 +41,7 @@ key: Db
 イントロ  
 Dbsus2/Gb Ab Dbsus2/Bb Dbsus2/F
 
-Aメロ
+Aメロ  
 Dbsus2/Gb Dbsus2/Eb  
 Dbsus2/Gb Dbsus2/Bb
 
