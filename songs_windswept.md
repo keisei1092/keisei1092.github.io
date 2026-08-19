@@ -33,3 +33,21 @@
 散る花弁
 
 あいまいな未来
+
+## Chords
+
+key: Db
+
+イントロ  
+Dbsus2/Gb Ab Dbsus2/Bb Dbsus2/F
+
+Aメロ
+Dbsus2/Gb Dbsus2/Eb  
+Dbsus2/Gb Dbsus2/Bb
+
+Bメロ  
+Dbsus2/Gb Gbm Dbsus2 Eb  
+Dbsus2/Gb Ab Dbsus2 Db
+
+サビ  
+Dbsus2/Gb Ab Dbsus2/Bb Dbsus2/F
