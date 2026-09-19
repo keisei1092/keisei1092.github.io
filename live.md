@@ -18,6 +18,31 @@ CLOSE 17:00
 
 ---
 
+## 2026/10/11 (日) 渋谷 nagomix
+
+39noPops vol.21
+
+START 13:00  
+CLOSE 20:00
+
+入場料  
+DOOR ¥3,000
+
+---
+
+## 2026/10/03 (土) 新宿・歌舞伎町 ボカブキ (新宿motion)
+
+ボカクライブ！
+
+OPEN 23:30  
+START 24:00
+
+入場料  
+DOOR ¥2,500  
+リポスト割 -¥500
+
+---
+
 ## 2026/08/15 (土) なんば MILULARI Legacy & Delight
 
 Connect to MiRAi 2026
