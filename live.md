@@ -10,8 +10,7 @@ START 14:00
 CLOSE 20:00
 
 ENTRANCE  
-通常 ¥2,500  
-1drink付
+¥2,500 1drink付
 
 [https://twipla.jp/events/745193](https://twipla.jp/events/745193)
 
