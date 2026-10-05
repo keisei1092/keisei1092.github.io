@@ -4,7 +4,7 @@
 
 ## 2026/11/22 (日) 川崎 月あかり夢てらす
 
-Vocaloid High -86 session- 16th Anniversary
+Vocaloid High -86th session- 16th Anniversary
 
 START 14:00  
 CLOSE 20:00
@@ -588,7 +588,7 @@ ENTRANCE
 
 ## 2018/11/25 (日) 川崎 月あかり夢てらす
 
-Vocaloid High -42th session- 8th Anniversary
+Vocaloid High -42nd session- 8th Anniversary
 
 OPEN 14:00  
 CLOSE 20:00
