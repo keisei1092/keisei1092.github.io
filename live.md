@@ -2,6 +2,21 @@
 
 <span style="font-size: 12px;">こちらに記載している情報は古い場合がありますので、各イベントのリンク先より最新の情報をご確認ください。</span>
 
+## 2026/11/22 (日) 川崎・月あかり夢てらす
+
+Vocaloid High -86 session- 16th Anniversary
+
+START 14:00  
+CLOSE 20:00
+
+ENTRANCE  
+通常 ¥2,500  
+1drink付
+
+[https://twipla.jp/events/745193](https://twipla.jp/events/745193)
+
+---
+
 ## 2026/11/14 (土) 山梨・笛吹 笛吹みんなの広場
 
 Vocaloid Assortment Vol.3
@@ -571,6 +586,22 @@ ENTRANCE
 
 ---
 
+## 2018/11/25 (日) 川崎 月あかり夢てらす
+
+Vocaloid High -42th session- 8th Anniversary
+
+OPEN 14:00  
+CLOSE 20:00
+
+ENTRANCE  
+¥2,500/1drink付  
+参加表明 / フライヤー持参 ¥2,000/1drink付  
+ボーカロイド関連コスプレ ¥1,500/1drink付  
+未成年 入場無料
+
+[https://twvt.me/vh42](https://twvt.me/vh42)
+
+---
 ## 2018/09/02 (日) 千葉 幕張メッセ 10ホール・11ホール
 
 BAND & DJ LIVEステージ  
