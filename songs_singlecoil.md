@@ -6,6 +6,8 @@
 
 ## Lyrics
 
+{::options parse_block_html="true" /}
+<div class="lyrics">
 ぼくの空に便りがきこえる  
 聴きなじみのコードとメロディで
 
@@ -46,6 +48,7 @@
 
 ハロー ハロー New Typeな未来  
 今より少しだけ進んでみよう
+</div>
 
 ## Chords
 

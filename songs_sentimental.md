@@ -6,6 +6,8 @@
 
 ## Lyrics
 
+{::options parse_block_html="true" /}
+<div class="lyrics">
 待っていたよ 羽根のあとを追って  
 ここにいるよ きみならって信じてた
 
@@ -33,6 +35,7 @@ flap flap flap flap luv
 天使の羽音 ゆれるネビュラ
 
 flap flap flap flap luv
+</div>
 
 ## Chords
 

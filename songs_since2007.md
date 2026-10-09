@@ -4,6 +4,8 @@
 
 ## Lyrics
 
+{::options parse_block_html="true" /}
+<div class="lyrics">
 ずっと端 誰もいないとこ  
 地下鉄のホームでひとり  
 きゅっと テレキャスター握りしめ  
@@ -27,3 +29,4 @@
 歩くのは 楽しかったよ
 
 これからも きっと
+</div>

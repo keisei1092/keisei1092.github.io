@@ -6,6 +6,8 @@
 
 ## Lyrics
 
+{::options parse_block_html="true" /}
+<div class="lyrics">
 街は明るくなっていく 僕の心だけを残して  
 発光ダイオードの光があふれて綺麗さ
 
@@ -35,6 +37,7 @@
 
 並ぶ 眠る 飾る 主語を拾い集めて  
 空を舞う 星々 いつかのアステロイド 秋の風
+</div>
 
 ## Chords
 

@@ -6,6 +6,8 @@
 
 ## Lyrics
 
+{::options parse_block_html="true" /}
+<div class="lyrics">
 名もなき夢のスペクトル  
 リリカルなビートの隙間から 何が響く 何が次に導わる
 
@@ -42,6 +44,7 @@
 何を写す そうつぶやいて また一歩踏み出した
 
 また一歩踏み出した
+</div>
 
 ## Chords
 

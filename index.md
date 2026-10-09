@@ -1,7 +1,9 @@
 <p class="cover-image">
   <img src="images/top.png" alt="top" />
   <br />
-  <span class="top-cover-image-credit">Illustrated by OTOMICA</span>
+  <span class="top-cover-image-credit">
+    Illustrated by <a href="https://x.com/otom1ca" target="_blank">OTOMICA <img class="external-link-mini" src="images/external_link.svg" /></a>
+  </span>
 </p>
 
 <span class="top-link">[biography](/biography)</span><br />

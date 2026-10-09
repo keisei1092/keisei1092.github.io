@@ -6,6 +6,8 @@
 
 ## Lyrics
 
+{::options parse_block_html="true" /}
+<div class="lyrics">
 魔法のボタンにふれたら とびきりの今があらわれる  
 手をあげて踊りだす みんな最高の music freaks
 
@@ -35,3 +37,4 @@
 
 魔法のボタンにさわって とびきりの今がこぼれだす  
 手をあげて踊りだす みんな最高の music freaks
+</div>

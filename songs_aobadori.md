@@ -6,6 +6,8 @@
 
 ## Lyrics
 
+{::options parse_block_html="true" /}
+<div class="lyrics">
 あくびする間に変わる世界 大事なもの忘れぬように  
 なくしたものに気づいたら 星の軌跡たよりに行こう  
 離れた星が出逢う路 きらきらが届くように  
@@ -32,6 +34,7 @@ our wishes come true
 通りの先の丘 夜空いっぱいの天の河  
 見つけた二つ星の間指で結んだよ  
 離れないように
+</div>
 
 ## Chords
 

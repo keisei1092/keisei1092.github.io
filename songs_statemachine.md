@@ -6,6 +6,8 @@
 
 ## Lyrics
 
+{::options parse_block_html="true" /}
+<div class="lyrics">
 花はこんなにやつれて みじめな姿になるのに  
 なんで君は水をやろうとするんだい
 
@@ -53,6 +55,7 @@
 評価なんていらない  
 居場所なんていらない  
 あったらめんどくさくなるからだ
+</div>
 
 ## Chords
 

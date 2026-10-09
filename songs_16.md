@@ -6,6 +6,8 @@
 
 ## Lyrics
 
+{::options parse_block_html="true" /}
+<div class="lyrics">
 機械の少女は旅する  
 言葉にならない気持ち きみはどう描く  
 そろそろ私もできるかもね  
@@ -33,6 +35,7 @@ fly far fly far away おそれずに
 友のこえに呼ばれ ぼくらはこの町で
 
 ララララ ラララララ
+</div>
 
 ## Chords
 

@@ -6,6 +6,8 @@
 
 ## Lyrics
 
+{::options parse_block_html="true" /}
+<div class="lyrics">
 きみと一緒の時代にさ 生きたら どんな言葉を探すのだろうか  
 涙にランプの光が差してさ はるかの景色が映った
 
@@ -30,6 +32,7 @@
 松ばら 奥に富士山
 
 視える
+</div>
 
 ## Chords
 

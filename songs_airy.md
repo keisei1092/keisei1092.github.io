@@ -6,6 +6,8 @@
 
 ## Lyrics
 
+{::options parse_block_html="true" /}
+<div class="lyrics">
 日常 その間にある 無音を大事に生きてたい  
 息をととのえて  
 窓の外に見下ろす朝の海はしじまをたたえて  
@@ -44,6 +46,7 @@
 
 はしる音が 潮風起こし  
 どうか僕らは 変わらないままで
+</div>
 
 ## Chords
 

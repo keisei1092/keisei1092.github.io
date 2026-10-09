@@ -6,6 +6,8 @@
 
 ## Lyrics
 
+{::options parse_block_html="true" /}
+<div class="lyrics">
 終わりなんてなくて空はどこかへとつながっていた  
 季節告げる風のように ぼくも遠くへ飛んでいけるかな
 
@@ -33,6 +35,7 @@
 散る花弁
 
 あいまいな未来
+</div>
 
 ## Chords
 

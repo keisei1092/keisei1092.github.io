@@ -4,6 +4,8 @@
 
 ## Lyrics
 
+{::options parse_block_html="true" /}
+<div class="lyrics">
 トンネル抜けてビルと低い空がみえる  
 調子が悪くて今日は休んだ
 
@@ -29,6 +31,7 @@ ah
 はかなげに揺れている  
 響く sorrow  
 手をひたしつめたさを感じた
+</div>
 
 ## Chords
 

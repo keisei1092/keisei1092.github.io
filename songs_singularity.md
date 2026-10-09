@@ -6,6 +6,8 @@
 
 ## Lyrics
 
+{::options parse_block_html="true" /}
+<div class="lyrics">
 今きみと迎える Singularity
 
 誰かの声がして ふり返る  
@@ -60,3 +62,4 @@
 ららららら ららららら ららららら
 
 確かな未来
+</div>

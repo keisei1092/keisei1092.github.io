@@ -4,6 +4,8 @@
 
 ## Lyrics
 
+{::options parse_block_html="true" /}
+<div class="lyrics">
 夜明け前 ゆるい空のもと  
 この広い世界へ 何を唄おう  
 銀色の弦を弾いて  
@@ -37,6 +39,7 @@
 好きな和音を差し当たりかき鳴らす  
 想いの丈よ 想いの丈よ 想いの丈よ  
 のびのびと
+</div>
 
 ## Chords
 
