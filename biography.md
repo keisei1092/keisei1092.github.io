@@ -16,6 +16,7 @@
 - Logic Pro
 - Ableton Live 12 Suite
 - 初音ミクNT
+- 初音ミクV6
 - Fender Made in Japan Hybrid II Telecaster
 - Fender Player Plus Stratocaster
 - Gibson Les Paul Standard '50s
