@@ -23,7 +23,7 @@
 - YAMAHA P-45
 - RME Babyface Pro FS
 - オーディオテクニカ ATH-R70xa
+- オーディオテクニカ ATH-M70x
 - GENELEC G One
 - オーディオテクニカ AT2020
 - AlphaTheta OMNIS-DUO
-
