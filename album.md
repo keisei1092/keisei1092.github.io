@@ -42,6 +42,10 @@
 
 焼津富士山丼
 
+![忍野八海 中池](album/oshinohakkai.jpg)
+
+忍野八海 中池
+
 ![おはらい町通り](album/oharaimachidori.jpg)
 
 おはらい町通り
